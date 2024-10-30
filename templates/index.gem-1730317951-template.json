@@ -1,0 +1,281 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "order": [
+    "image_banner_kiHxkN",
+    "d2d3417b-e92f-428c-b221-5bceffb552be",
+    "featured_collection_UtWKDf",
+    "6aa09428-a417-429d-9159-a4e8afd49590",
+    "section_divider_NWJKJb"
+  ],
+  "sections": {
+    "image_banner_kiHxkN": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_j8bYYz": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_a8Wa9U": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_ApX9KB": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_j8bYYz",
+        "text_a8Wa9U",
+        "buttons_ApX9KB"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify:\/\/shop_images\/Banner_Tienda_Onecomerce_47bd06f5-a914-480d-96ab-f488a027044d.webp",
+        "image_1_visibility": "always-display",
+        "image_2_visibility": "always-display",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "d2d3417b-e92f-428c-b221-5bceffb552be": {
+      "type": "comparison-table",
+      "blocks": {
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-1": {
+          "type": "row",
+          "settings": {
+            "benefit": "Calidad",
+            "us": true,
+            "others": false
+          }
+        },
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-2": {
+          "type": "row",
+          "settings": {
+            "benefit": "Envíos Rapidos",
+            "us": true,
+            "others": false
+          }
+        },
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3": {
+          "type": "row",
+          "settings": {
+            "benefit": "Mejor precio",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_MhPNgd": {
+          "type": "row",
+          "settings": {
+            "benefit": "Gran selección",
+            "us": true,
+            "others": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-1",
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-2",
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3",
+        "row_MhPNgd"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Beneficios",
+        "heading_size": "h1",
+        "text": "<p>Productos 100% Garantizados, para mayor seguridad<\/p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "color_scheme": "background-1",
+        "layout": "table_second",
+        "style": "centered",
+        "logo": "shopify:\/\/shop_images\/Logo_menu_Inicio_-_copia.png",
+        "logo_width": 90,
+        "mobile_logo_width": 95,
+        "us_label": "Onecomerce",
+        "us_label_size": 17,
+        "others_label": "Otros",
+        "others_label_size": 18,
+        "checkmark_style": "regular",
+        "checkmark_color": "#53af01",
+        "checkmark_bg_color": "#53af01",
+        "x_style": "regular",
+        "x_color": "#ffffff",
+        "x_bg_color": "#555555",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "background-1",
+        "highlighted_separator_opacity": 2,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "accent-2",
+        "regular_separator_opacity": 6,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_UtWKDf": {
+      "type": "featured-collection",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Productos del la semana",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "productos-destacados",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 36
+      }
+    },
+    "6aa09428-a417-429d-9159-a4e8afd49590": {
+      "type": "icon-bar",
+      "blocks": {
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Política de devolución de dinero y garantías",
+            "text": "<p>Política flexible de devolución y reembolso<\/p><p><\/p>"
+          }
+        },
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2": {
+          "type": "column",
+          "settings": {
+            "icon": "Verified User",
+            "filled_icon": false,
+            "title": "Garantía de devolución de dinero",
+            "text": "<p>Garantía de devolución de dinero 100% libre de riesgos<\/p><p><\/p>"
+          }
+        },
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3": {
+          "type": "column",
+          "settings": {
+            "icon": "Mail",
+            "filled_icon": false,
+            "title": "Contactanos",
+            "text": "<p><strong>Email: <\/strong>onecommerce92@gmail.com<br\/><strong>WhatsApp:<\/strong> +57 324 6351943<\/p>"
+          }
+        },
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4": {
+          "type": "column",
+          "settings": {
+            "icon": "Local Shipping",
+            "filled_icon": false,
+            "title": "Envios gratis",
+            "text": "<p>Todos nuestros productos incluyen envios gratis<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1",
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2",
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3",
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "heading_size": "h0",
+        "text": "",
+        "color_scheme": "background-1",
+        "icon_layout": "vertical",
+        "icon_size": "medium",
+        "icon_color": "accent-1",
+        "cards_color_scheme": "background-1",
+        "type": "slide",
+        "autoplay": true,
+        "autoplay_speed": 2,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_divider_NWJKJb": {
+      "type": "section-divider",
+      "settings": {
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "background_color": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  }
+}
