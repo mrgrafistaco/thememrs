@@ -28,11 +28,6 @@
           "settings": {
           }
         },
-        "reviews_YqXHET": {
-          "type": "reviews",
-          "settings": {
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -44,12 +39,19 @@
             "price_color": "#28357d",
             "comparation_price_color": "#8a8f9b"
           }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
         }
       },
       "block_order": [
         "title",
-        "reviews_YqXHET",
-        "price"
+        "price",
+        "buy_buttons"
       ],
       "custom_css": [
 
