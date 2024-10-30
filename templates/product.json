@@ -10,8 +10,8 @@
 {
   "order": [
     "main",
-    "related-products",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
+    "related-products",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
@@ -35,37 +35,9 @@
             "border_radius_percent": 10,
             "border_percent_color": "#ff5252",
             "save_bg_color": "#ff5252",
-            "save_text_color": "#fff",
+            "save_text_color": "#ffffff",
             "price_color": "#28357d",
             "comparation_price_color": "#8a8f9b"
-          }
-        },
-        "c43b9f54-e00a-4f9e-b42c-2914dde008a8": {
-          "type": "reviews",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "text_EmACyr": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Text block",
-            "text_style": "body"
-          }
-        },
-        "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
           }
         },
         "buy_buttons": {
@@ -74,56 +46,12 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
-        },
-        "collapsible_tab_zWHWdU": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Información de envio",
-            "icon": "local_shipping",
-            "content": "<p>Manejamos envíos gratis con servicio pago contra entrega a todo el país nuestro tiempo de entrega es de 2 a 4 Días Hábiles  recuerda tener el dinero completo en EFECTIVO en el momento de la entrega Para que no tengas novedades con la recepción de tu pedido.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_AHKUqL": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Devoluciones y reembolsos",
-            "icon": "keyboard_return",
-            "content": "<p>Hacemos devolución de dinero de pedidos 5 días de recibido tu compra y manejamos garantía de 30 días por defectos de fabrica por cualquier producto de nuestra tienda .</p>",
-            "page": ""
-          }
-        },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "de158e68-5d0d-4819-a625-e2dabdff87d1": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "More info",
-            "icon": "check_box",
-            "content": "",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "title",
         "price",
-        "c43b9f54-e00a-4f9e-b42c-2914dde008a8",
-        "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
-        "text_EmACyr",
-        "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
-        "buy_buttons",
-        "collapsible_tab_zWHWdU",
-        "collapsible_tab_AHKUqL",
-        "description",
-        "de158e68-5d0d-4819-a625-e2dabdff87d1"
+        "buy_buttons"
       ],
       "custom_css": [
 
@@ -288,7 +216,6 @@
         "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-3",
         "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-4"
       ],
-      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
