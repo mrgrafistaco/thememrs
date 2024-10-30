@@ -10,7 +10,6 @@
 {
   "order": [
     "image_banner_kiHxkN",
-    "cfca4268-6358-426c-98ab-d292aeef11e5",
     "collection_list_hkxjHA",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
@@ -78,70 +77,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "cfca4268-6358-426c-98ab-d292aeef11e5": {
-      "type": "slideshow",
-      "blocks": {
-        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Banner_Tienda_Onecomerce_47bd06f5-a914-480d-96ab-f488a027044d.webp",
-            "heading": "LOS MEJORES PRODUCTOS PARA TU BIENESTAR PERSONAL",
-            "heading_size": "h2",
-            "subheading": "💞 Más Calidad de Vida, Mayor Vitalidad, Mayor Energía ⚡",
-            "button_label": "Ver mas productos",
-            "link": "shopify://collections",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-2": {
-          "type": "slide",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1",
-        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "visibility": "always-display",
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "dots",
-        "desktop_pagination_position": "over",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "mobile_pagination_position": "under",
-        "accessibility_info": "Slideshow about our brand"
       }
     },
     "collection_list_hkxjHA": {
