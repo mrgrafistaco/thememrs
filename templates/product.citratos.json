@@ -10,12 +10,12 @@
 {
   "order": [
     "main",
+    "image_with_text_FgE7CB",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
+    "image_with_text_eWqHW7",
+    "image_with_text_CyhCpk",
     "related-products",
-    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
-    "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
-    "icon_bar_LiJcnD",
     "421b5ad9-18b2-4b2a-8205-8700f2cd0d94",
     "collapsible_content_aieFik"
   ],
@@ -73,6 +73,46 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_FgE7CB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ecHfVz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mejora de la función muscular y nerviosa",
+            "heading_size": "h1"
+          }
+        },
+        "text_UGwaxP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Imagínate despertando cada mañana con una sensación de fuerza y estabilidad. Tus músculos están listos para cualquier desafío del día, y tus nervios funcionan como un sistema bien aceitado, sin tensiones ni calambres. Podrás disfrutar de tus actividades diarias con una movilidad fluida y sin molestias.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ecHfVz",
+        "text_UGwaxP"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/gempages_528313020430943254-08f809aa-cd31-4720-b878-378379f636cc.gif",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8beb6911-28c6-482c-976a-e5421ad3e8df": {
       "type": "custom-columns",
       "blocks": {
@@ -81,7 +121,7 @@
           "settings": {
             "column": "col_1",
             "visibility": "always-display",
-            "heading": "Custom columns",
+            "heading": "Recupera tu energía y bienestar",
             "heading_size": "h1",
             "alignment": "center",
             "mobile_alignment": "mobile-center",
@@ -94,7 +134,7 @@
           "settings": {
             "column": "col_1",
             "visibility": "always-display",
-            "text": "<p>Use the flexible grid system to create any layout. Each block can be placed in any of the columns.</p>",
+            "text": "<p><strong>Citratos FitoVit</strong> combina magnesio y potasio en una fórmula diseñada para mejorar tu rendimiento físico y mental, además de apoyar una adecuada función muscular y cardiovascular</p>",
             "text_style": "body",
             "alignment": "center",
             "mobile_alignment": "mobile-center",
@@ -114,8 +154,8 @@
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "title": "✨ Energía Constante",
+            "text": "<p>Mantente lleno de energía 💪 durante todo el día, sin bajones de cansancio. <strong>Citratos FitoVit</strong> equilibra tus niveles de magnesio y potasio, dándote un impulso duradero.</p>",
             "margin_top": 20,
             "margin_bottom": 30
           }
@@ -132,8 +172,8 @@
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "title": "Recuperación Rápida y Sin Calambres⚡",
+            "text": "<p>Disfruta de una rápida recuperación sin calambres 💥 después de hacer ejercicio. <strong>Citratos FitoVit</strong> repone tus electrolitos para que te sientas listo para el siguiente desafío.</p>",
             "margin_top": 20,
             "margin_bottom": 20
           }
@@ -143,6 +183,7 @@
           "settings": {
             "column": "col_3",
             "visibility": "always-display",
+            "image": "shopify://shop_images/gempages_528313020430943254-22f8e9b6-3375-448d-b8a9-8b5b5e915e45.webp",
             "width": 100,
             "alignment": "center",
             "mobile_alignment": "center",
@@ -163,8 +204,8 @@
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "title": "Colágeno para Articulaciones y Piel🌟",
+            "text": "<p>Fortalece tus articulaciones y mejora la elasticidad de tu piel 💧 con colágeno hidrolizado. <strong>Citratos FitoVit</strong> cuida tu cuerpo desde el interior.</p>",
             "margin_top": 20,
             "margin_bottom": 30
           }
@@ -181,8 +222,8 @@
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "title": "Cúrcuma Anti-Inflamatoria🌿",
+            "text": "<p>Siente alivio en tus articulaciones y reduce la inflamación 🌱. La cúrcuma en <strong>Citratos FitoVit</strong> mejora la movilidad y disminuye el dolor.</p>",
             "margin_top": 20,
             "margin_bottom": 20
           }
@@ -230,6 +271,86 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_eWqHW7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_rKTx4i": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mejor calidad del sueño",
+            "heading_size": "h1"
+          }
+        },
+        "text_GMKMYm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Piensa en ir a la cama y caer en un sueño profundo y reparador casi de inmediato. Despertar sintiéndote completamente descansado, con la mente clara y lista para enfrentar un nuevo día. Es como tener una noche perfecta de descanso, todas las noches, que te permite funcionar al 100% durante el día.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rKTx4i",
+        "text_GMKMYm"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/gempages_528313020430943254-9121ce8d-ccf1-442d-94a9-28e49f3dfe72.gif",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_CyhCpk": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CDd7Aw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Aumento de los niveles de energía",
+            "heading_size": "h1"
+          }
+        },
+        "text_VifdGE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Visualiza tener una reserva infinita de energía. Desde el momento en que te despiertas hasta que te acuestas, tu cuerpo está lleno de vigor. No más cansancio a mitad del día; te sientes revitalizado, como si cada célula estuviera cargada de una energía renovadora.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CDd7Aw",
+        "text_VifdGE"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/25.webp",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -247,167 +368,6 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 24
-      }
-    },
-    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
-      "type": "icons-with-content",
-      "blocks": {
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1": {
-          "type": "icon",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2": {
-          "type": "icon",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3": {
-          "type": "icon",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Content heading",
-            "heading_size": "h1"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair icons with content to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "color_scheme": "background-1",
-        "icon_size": "m",
-        "icon_position": "next-to-title",
-        "icon_color": "accent-1",
-        "icon_heading_size": "h3",
-        "icon_text_alignment": "left",
-        "icons_desktop_layout": "1-column",
-        "icons_mobile_layout": "1-column",
-        "desktop_content_alignment": "left",
-        "layout": "image_first",
-        "mobile_layout": "text_first",
-        "hide_content_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "eba88da5-80ac-47fc-aa75-997cfe7b2e59": {
-      "type": "image-slider",
-      "blocks": {
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1": {
-          "type": "image_slide",
-          "settings": {
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2": {
-          "type": "image_slide",
-          "settings": {
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3": {
-          "type": "image_slide",
-          "settings": {
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4": {
-          "type": "image_slide",
-          "settings": {
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4"
-      ],
-      "disabled": true,
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Image/Video Slider",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "type": "slide",
-        "drag": "enabled",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "center_mode": false,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": false,
-        "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "desktop_border_radius": 0,
-        "slides_desktop": 3,
-        "per_move_desktop": 1,
-        "desktop_spacing": 28,
-        "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "mobile_full_page": false,
-        "mobile_border_radius": 0,
-        "slides_mobile": 2,
-        "per_move_mobile": 1,
-        "mobile_spacing": 12,
-        "mobile_side_padding": 0,
-        "mobile_padding_calc": true,
-        "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "sides",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
@@ -443,7 +403,6 @@
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2",
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3"
       ],
-      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -476,90 +435,6 @@
         "desktop_adaptive_height": false,
         "desktop_dots_position": "under",
         "desktop_arrows_position": "sides",
-        "slider_mobile": true,
-        "enable_mobile_preview": false,
-        "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "icon_bar_LiJcnD": {
-      "type": "icon-bar",
-      "blocks": {
-        "column_cHwdij": {
-          "type": "column",
-          "settings": {
-            "icon": "Local Shipping",
-            "filled_icon": false,
-            "title": "Envíos gratis",
-            "text": "<p>Todos nuestros productos incluyen envíos gratis</p>"
-          }
-        },
-        "column_HhAi8K": {
-          "type": "column",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Respaldo",
-            "text": "<p>Todos nuestros productos cuentan con 30 dias de garantía  </p><p></p>"
-          }
-        },
-        "column_PdgT9R": {
-          "type": "column",
-          "settings": {
-            "icon": "Verified User",
-            "filled_icon": false,
-            "title": "Garantía de devolución de dinero",
-            "text": "<p>Garantía de devolución de dinero 100% libre de riesgos</p><p></p>"
-          }
-        },
-        "column_JAmyBM": {
-          "type": "column",
-          "settings": {
-            "icon": "Mail",
-            "filled_icon": false,
-            "title": "Contactanos",
-            "text": "<p><strong>Email: </strong>soporte@joselevende.com<br/><strong>WhatsApp Colombia:</strong> +57 314 661 2528</p><p><strong>WhatsApp Ecuador:</strong>+593 98 717 2857</p><p></p><p></p>"
-          }
-        }
-      },
-      "block_order": [
-        "column_cHwdij",
-        "column_HhAi8K",
-        "column_PdgT9R",
-        "column_JAmyBM"
-      ],
-      "disabled": true,
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "",
-        "heading_size": "h1",
-        "text": "",
-        "color_scheme": "background-1",
-        "icon_layout": "vertical",
-        "icon_size": "medium",
-        "icon_color": "accent-1",
-        "cards_color_scheme": "background-1",
-        "type": "slide",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": true,
-        "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "columns_desktop": 4,
-        "slider_desktop": false,
-        "per_move_desktop": 1,
-        "desktop_spacing": 40,
-        "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "columns_mobile": "1",
         "slider_mobile": true,
         "enable_mobile_preview": false,
         "mobile_adaptive_height": false,
