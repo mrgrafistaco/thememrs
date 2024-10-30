@@ -474,6 +474,7 @@
         },
         "row_TUxCjr": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "benefit": "REGISTRO INVIMA",
             "us": true,
@@ -483,7 +484,7 @@
         "row_B7ygWr": {
           "type": "row",
           "settings": {
-            "benefit": "A BASE DE PRODUCTOS 100% NATURALES",
+            "benefit": "PRODUCTOS 100% GARANTIZADOS",
             "us": true,
             "others": false
           }
