@@ -44,12 +44,23 @@
             "price_color": "#28357d",
             "comparation_price_color": "#8a8f9b"
           }
+        },
+        "like_section_nfWAUa": {
+          "type": "like-section",
+          "settings": {
+            "name_select": "Mixto",
+            "bg_color": "#f9e8e8",
+            "border_color": "#f2c4c4",
+            "text_color": "#000",
+            "border_radius": 10
+          }
         }
       },
       "block_order": [
         "title",
         "viewers_xPwHHD",
-        "price"
+        "price",
+        "like_section_nfWAUa"
       ],
       "custom_css": [
 
