@@ -60,7 +60,7 @@
           "settings": {
             "filled_icon": false,
             "icon": "check_circle",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
             "title": "Icon with text"
           },
           "type": "icon"
@@ -69,7 +69,7 @@
           "settings": {
             "filled_icon": false,
             "icon": "check_circle",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
             "title": "Icon with text"
           },
           "type": "icon"
@@ -78,14 +78,14 @@
           "settings": {
             "filled_icon": false,
             "icon": "check_circle",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
             "title": "Icon with text"
           },
           "type": "icon"
         },
         "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1": {
           "settings": {
-            "text": "<p>Pair icons with content to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair icons with content to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body"
           },
           "type": "text"
@@ -121,24 +121,24 @@
       "blocks": {
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1": {
           "settings": {
-            "author": "<em><strong>Author<\/strong><\/em>",
-            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "author": "<em><strong>Author</strong></em>",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
             "title": "Heading"
           },
           "type": "column"
         },
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2": {
           "settings": {
-            "author": "<em><strong>Author<\/strong><\/em>",
-            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "author": "<em><strong>Author</strong></em>",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
             "title": "Heading"
           },
           "type": "column"
         },
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3": {
           "settings": {
-            "author": "<em><strong>Author<\/strong><\/em>",
-            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "author": "<em><strong>Author</strong></em>",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
             "title": "Heading"
           },
           "type": "column"
@@ -223,7 +223,7 @@
             "icon_text_alignment": "left",
             "margin_bottom": 30,
             "margin_top": 20,
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
             "title": "Icon with text",
             "visibility": "always-display"
           },
@@ -241,7 +241,7 @@
             "icon_text_alignment": "left",
             "margin_bottom": 20,
             "margin_top": 20,
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
             "title": "Icon with text",
             "visibility": "always-display"
           },
@@ -259,7 +259,7 @@
             "icon_text_alignment": "left",
             "margin_bottom": 30,
             "margin_top": 20,
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
             "title": "Icon with text",
             "visibility": "always-display"
           },
@@ -277,7 +277,7 @@
             "icon_text_alignment": "left",
             "margin_bottom": 20,
             "margin_top": 20,
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
             "title": "Icon with text",
             "visibility": "always-display"
           },
@@ -303,7 +303,7 @@
             "margin_bottom": 20,
             "margin_top": 20,
             "mobile_alignment": "mobile-center",
-            "text": "<p>Use the flexible grid system to create any layout. Each block can be placed in any of the columns.<\/p>",
+            "text": "<p>Use the flexible grid system to create any layout. Each block can be placed in any of the columns.</p>",
             "text_style": "body",
             "visibility": "always-display"
           },
@@ -359,7 +359,7 @@
             "heading": "¿En cuanto llega mi pedido?",
             "icon": "check_box",
             "page": "",
-            "row_content": "<p>Manejamos envíos gratis y pago contra entrega a todo el país. El tiempo de entrega es de 3 a 4 Días Hábiles.<\/p><p>Recuerda tener el dinero completo en EFECTIVO en el momento de la entrega, para que no tengas novedades con la recepción de tu pedido.<\/p>"
+            "row_content": "<p>Manejamos envíos gratis y pago contra entrega a todo el país. El tiempo de entrega es de 3 a 4 Días Hábiles.</p><p>Recuerda tener el dinero completo en EFECTIVO en el momento de la entrega, para que no tengas novedades con la recepción de tu pedido.</p>"
           },
           "type": "collapsible_row"
         },
@@ -369,7 +369,7 @@
             "heading": "¿Que pasa si no me funciona el producto?",
             "icon": "check_box",
             "page": "",
-            "row_content": "<p>Ofrecemos una garantía de devolución del producto de 5 días, si no es lo que esperabas.<\/p>"
+            "row_content": "<p>Ofrecemos una garantía de devolución del producto de 5 días, si no es lo que esperabas.</p>"
           },
           "type": "collapsible_row"
         },
@@ -379,7 +379,7 @@
             "heading": "¿Donde me puedo contactar?",
             "icon": "check_box",
             "page": "",
-            "row_content": "<h2>Central de atención al cliente<\/h2><p><strong>Email: <\/strong>onecommerce92@gmail.com<br\/><strong>WhatsApp Colombia:<\/strong> +57 324 6351943<\/p>"
+            "row_content": "<h2>Central de atención al cliente</h2><p><strong>Email: </strong>onecommerce92@gmail.com<br/><strong>WhatsApp Colombia:</strong> +57 324 6351943</p>"
           },
           "type": "collapsible_row"
         },
@@ -390,7 +390,7 @@
             "heading": "¿Que garantias tienen los productos?",
             "icon": "check_box",
             "page": "",
-            "row_content": "<p>Hacemos devolución de dinero de pedidos 5 días de recibido tu compra y manejamos garantía de 30 días por defectos de fabrica por cualquier producto de nuestra tienda .<\/p>"
+            "row_content": "<p>Hacemos devolución de dinero de pedidos 5 días de recibido tu compra y manejamos garantía de 30 días por defectos de fabrica por cualquier producto de nuestra tienda .</p>"
           },
           "type": "collapsible_row"
         }
@@ -490,7 +490,7 @@
         "per_move_mobile": 1,
         "slides_desktop": 3,
         "slides_mobile": 2,
-        "title": "Image\/Video Slider",
+        "title": "Image/Video Slider",
         "transparent_arrows": false,
         "type": "slide",
         "visibility": "always-display"
@@ -509,7 +509,7 @@
           "settings": {
             "filled_icon": false,
             "icon": "check_circle",
-            "text": "<p>Todos nuestros productos cuentan con 30 dias de garantía  <\/p><p><\/p>",
+            "text": "<p>Todos nuestros productos cuentan con 30 dias de garantía  </p><p></p>",
             "title": "Respaldo"
           },
           "type": "column"
@@ -518,7 +518,7 @@
           "settings": {
             "filled_icon": false,
             "icon": "Mail",
-            "text": "<p><strong>Email: <\/strong>soporte@joselevende.com<br\/><strong>WhatsApp Colombia:<\/strong> +57 314 661 2528<\/p><p><strong>WhatsApp Ecuador:<\/strong>+593 98 717 2857<\/p><p><\/p><p><\/p>",
+            "text": "<p><strong>Email: </strong>soporte@joselevende.com<br/><strong>WhatsApp Colombia:</strong> +57 314 661 2528</p><p><strong>WhatsApp Ecuador:</strong>+593 98 717 2857</p><p></p><p></p>",
             "title": "Contactanos"
           },
           "type": "column"
@@ -527,7 +527,7 @@
           "settings": {
             "filled_icon": false,
             "icon": "Verified User",
-            "text": "<p>Garantía de devolución de dinero 100% libre de riesgos<\/p><p><\/p>",
+            "text": "<p>Garantía de devolución de dinero 100% libre de riesgos</p><p></p>",
             "title": "Garantía de devolución de dinero"
           },
           "type": "column"
@@ -536,7 +536,7 @@
           "settings": {
             "filled_icon": false,
             "icon": "Local Shipping",
-            "text": "<p>Todos nuestros productos incluyen envíos gratis<\/p>",
+            "text": "<p>Todos nuestros productos incluyen envíos gratis</p>",
             "title": "Envíos gratis"
           },
           "type": "column"
@@ -718,17 +718,17 @@
         "c43b9f54-e00a-4f9e-b42c-2914dde008a8": {
           "disabled": true,
           "settings": {
-            "author_1": "<em>Author<\/em>",
-            "author_2": "<em>Author<\/em>",
-            "author_3": "<em>Author<\/em>",
+            "author_1": "<em>Author</em>",
+            "author_2": "<em>Author</em>",
+            "author_3": "<em>Author</em>",
             "avatar_alignment": "top",
             "display_stars": true,
             "margin_bottom": 24,
             "margin_top": 24,
             "star_color": "#ffcc00",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.<\/p>",
-            "text_2": "<p>Share positive thoughts and feedback from your customer.<\/p>",
-            "text_3": "<p>Share positive thoughts and feedback from your customer.<\/p>"
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>"
           },
           "type": "reviews"
         },
@@ -736,7 +736,7 @@
           "disabled": true,
           "settings": {
             "collapse_icon": "carret",
-            "content": "<p>Hacemos devolución de dinero de pedidos 5 días de recibido tu compra y manejamos garantía de 30 días por defectos de fabrica por cualquier producto de nuestra tienda .<\/p>",
+            "content": "<p>Hacemos devolución de dinero de pedidos 5 días de recibido tu compra y manejamos garantía de 30 días por defectos de fabrica por cualquier producto de nuestra tienda .</p>",
             "display_top_border": true,
             "filled_icon": false,
             "heading": "Devoluciones y reembolsos",
@@ -752,7 +752,7 @@
           "disabled": true,
           "settings": {
             "collapse_icon": "carret",
-            "content": "<p>Manejamos envíos gratis con servicio pago contra entrega a todo el país nuestro tiempo de entrega es de 2 a 4 Días Hábiles  recuerda tener el dinero completo en EFECTIVO en el momento de la entrega Para que no tengas novedades con la recepción de tu pedido.<\/p>",
+            "content": "<p>Manejamos envíos gratis con servicio pago contra entrega a todo el país nuestro tiempo de entrega es de 2 a 4 Días Hábiles  recuerda tener el dinero completo en EFECTIVO en el momento de la entrega Para que no tengas novedades con la recepción de tu pedido.</p>",
             "display_top_border": true,
             "filled_icon": false,
             "heading": "Información de envio",
@@ -814,9 +814,9 @@
             "min_days_2": 1,
             "min_days_3": 10,
             "months_labels": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
-            "top_text_1": "<strong>[start_date]<\/strong>",
-            "top_text_2": "<strong>[start_date] - [end_date]<\/strong>",
-            "top_text_3": "<strong>[start_date] - [end_date]<\/strong>",
+            "top_text_1": "<strong>[start_date]</strong>",
+            "top_text_2": "<strong>[start_date] - [end_date]</strong>",
+            "top_text_3": "<strong>[start_date] - [end_date]</strong>",
             "top_text_4": ""
           },
           "type": "shipping_checkpoints"
@@ -895,9 +895,9 @@
             "margin_top": 18,
             "mobile_text_size": 14,
             "padding": 3,
-            "text_1": "<strong>Envio Gratis <\/strong>",
-            "text_2": "<strong>100% Politica devolucion de dinero<\/strong>",
-            "text_3": "<strong>Garantia de 30 dias<\/strong>",
+            "text_1": "<strong>Envio Gratis </strong>",
+            "text_2": "<strong>100% Politica devolucion de dinero</strong>",
+            "text_3": "<strong>Garantia de 30 dias</strong>",
             "text_color": "#121212",
             "width": "fit-content"
           },

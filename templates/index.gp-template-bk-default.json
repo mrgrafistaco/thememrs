@@ -34,21 +34,21 @@
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1": {
           "settings": {
             "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           },
           "type": "row"
         },
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2": {
           "settings": {
             "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           },
           "type": "row"
         },
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3": {
           "settings": {
             "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           },
           "type": "row"
         }
@@ -59,7 +59,7 @@
         "atc_product": "",
         "button_label": "",
         "button_style_secondary": false,
-        "caption": "<p>Caption about the results and\/or link for their proof.<\/p>",
+        "caption": "<p>Caption about the results and/or link for their proof.</p>",
         "color_scheme": "background-1",
         "display_id": false,
         "heading_size": "h1",
@@ -70,7 +70,7 @@
         "results_headline": "Results heading",
         "results_headline_alignment": "left",
         "results_headline_size": "h2",
-        "text": "<p>Talk about results of your customers and how your product improved their life.<\/p>",
+        "text": "<p>Talk about results of your customers and how your product improved their life.</p>",
         "title": "Resultados",
         "visibility": "always-display"
       },
@@ -89,7 +89,7 @@
           "settings": {
             "filled_icon": false,
             "icon": "check_circle",
-            "text": "<p>Política flexible de devolución y reembolso<\/p><p><\/p>",
+            "text": "<p>Política flexible de devolución y reembolso</p><p></p>",
             "title": "Política de devolución de dinero y garantías"
           },
           "type": "column"
@@ -98,7 +98,7 @@
           "settings": {
             "filled_icon": false,
             "icon": "Verified User",
-            "text": "<p>Garantía de devolución de dinero 100% libre de riesgos<\/p><p><\/p>",
+            "text": "<p>Garantía de devolución de dinero 100% libre de riesgos</p><p></p>",
             "title": "Garantía de devolución de dinero"
           },
           "type": "column"
@@ -107,7 +107,7 @@
           "settings": {
             "filled_icon": false,
             "icon": "Mail",
-            "text": "<p><strong>Email: <\/strong>onecommerce92@gmail.com<br\/><strong>WhatsApp:<\/strong> +57 324 6351943<\/p>",
+            "text": "<p><strong>Email: </strong>onecommerce92@gmail.com<br/><strong>WhatsApp:</strong> +57 324 6351943</p>",
             "title": "Contactanos"
           },
           "type": "column"
@@ -116,7 +116,7 @@
           "settings": {
             "filled_icon": false,
             "icon": "Local Shipping",
-            "text": "<p>Todos nuestros productos incluyen envios gratis<\/p><p><\/p>",
+            "text": "<p>Todos nuestros productos incluyen envios gratis</p><p></p>",
             "title": "Envios gratis"
           },
           "type": "column"
@@ -229,9 +229,9 @@
             "color_scheme": "background-1",
             "heading": "LOS MEJORES PRODUCTOS PARA TU BIENESTAR PERSONAL",
             "heading_size": "h2",
-            "image": "shopify:\/\/shop_images\/Banner_Tienda_72f5451b-e3c2-4ec9-8a39-ed420ae86568.webp",
+            "image": "shopify://shop_images/Banner_Tienda_72f5451b-e3c2-4ec9-8a39-ed420ae86568.webp",
             "image_overlay_opacity": 0,
-            "link": "shopify:\/\/collections",
+            "link": "shopify://collections",
             "show_text_box": false,
             "subheading": "💞 Más Calidad de Vida, Mayor Vitalidad, Mayor Energía ⚡",
             "text_alignment": "left",
@@ -405,7 +405,7 @@
         "regular_overlay_opacity": 0,
         "regular_separator_opacity": 6,
         "style": "centered",
-        "text": "<p>Productos 100% Garantizados, para mayor seguridad<\/p>",
+        "text": "<p>Productos 100% Garantizados, para mayor seguridad</p>",
         "title": "Beneficios",
         "us_label": "Onecomerce",
         "us_label_size": 17,
@@ -613,7 +613,7 @@
             "mobile_content_vertical_position": "center",
             "mobile_heading_size": 36,
             "rotation": 0,
-            "text": "<p>Create a cool perspective scrolling effect using multiple image layers.<\/p>",
+            "text": "<p>Create a cool perspective scrolling effect using multiple image layers.</p>",
             "vertical_scrollng_speed": 0,
             "z_index": 0,
             "zoom_level": 100
@@ -693,24 +693,24 @@
       "blocks": {
         "column_6bAN4e": {
           "settings": {
-            "author": "<em><strong>Author<\/strong><\/em>",
-            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "author": "<em><strong>Author</strong></em>",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
             "title": "Heading"
           },
           "type": "column"
         },
         "column_DPhifX": {
           "settings": {
-            "author": "<em><strong>Author<\/strong><\/em>",
-            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "author": "<em><strong>Author</strong></em>",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
             "title": "Heading"
           },
           "type": "column"
         },
         "column_etaCYw": {
           "settings": {
-            "author": "<em><strong>Author<\/strong><\/em>",
-            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "author": "<em><strong>Author</strong></em>",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
             "title": "Heading"
           },
           "type": "column"
