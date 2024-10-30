@@ -186,7 +186,7 @@
           "settings": {
             "column": "col_3",
             "visibility": "always-display",
-            "image": "shopify://shop_images/8.webp",
+            "image": "shopify://shop_images/123.webp",
             "width": 100,
             "alignment": "center",
             "mobile_alignment": "center",
@@ -280,14 +280,14 @@
         "heading_rKTx4i": {
           "type": "heading",
           "settings": {
-            "heading": "Evita los drenajes obstruidos",
+            "heading": "No es perjudicial para las tuberías ni para el Medio Ambiente",
             "heading_size": "h1"
           }
         },
         "text_GMKMYm": {
           "type": "text",
           "settings": {
-            "text": "<p>Ayuda a eliminar los depósitos minerales de agua dura, las manchas y los olores de los desagües y tuberías. Y disuelve eficazmente la grasa, el cabello y otros desechos, restaurando un mejor flujo en fregaderos, duchas y desagües de piso.</p>",
+            "text": "<p>Nuestros productos utilizan materiales respetuosos con el medio ambiente para resolver eficazmente las tuberías obstruidas sin dañar sus tuberías o el medio ambiente.</p>",
             "text_style": "body"
           }
         }
@@ -360,14 +360,14 @@
         "heading_96cCMY": {
           "type": "heading",
           "settings": {
-            "heading": "Mantén Tu Hogar fresco",
+            "heading": "SEGURO 6 EN 1",
             "heading_size": "h1"
           }
         },
         "text_mieUdE": {
           "type": "text",
           "settings": {
-            "text": "<p>Elimina los olores de drenaje y los bloqueos con nuestro limpiador espumoso de drenaje de limón. Formulado con un refrescante aroma a limón, crea una acción espumosa que penetra profundamente en los drenajes, descomponiendo la materia grasa, evita la acumulación y mantiene los drenajes fluyendo libremente.</p>",
+            "text": "<p>Este agente de dragado de tuberías es seguro de usar en tuberías, inodoros, fregaderos, bañeras, duchas y sistemas sépticos. Nuestra fórmula no es corrosiva para la plomería y disuelve el cabello de manera más efectiva que los abridores de drenaje tradicionales a base de lejía</p>",
             "text_style": "body"
           }
         }

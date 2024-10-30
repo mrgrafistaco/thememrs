@@ -28,11 +28,6 @@
           "settings": {
           }
         },
-        "viewers_wdH74r": {
-          "type": "viewers",
-          "settings": {
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -48,7 +43,6 @@
       },
       "block_order": [
         "title",
-        "viewers_wdH74r",
         "price"
       ],
       "custom_css": [
