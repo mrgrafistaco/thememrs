@@ -457,25 +457,28 @@
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1": {
           "type": "column",
           "settings": {
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Le doy un 10/10",
+            "text": "<p>Este producto me funciona para los dolores musculares y para dormir.. me a ayudado mucho, lo....recomiendo ..al 100/100.</p>",
+            "author_avatar": "shopify://shop_images/Testimonio_3.webp",
+            "author": "Luisa Suárez"
           }
         },
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2": {
           "type": "column",
           "settings": {
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Lo tomo antes de entrenar",
+            "text": "<p>Una excelente compra, ya llevo varios días usándo el producto y me siento muy bien. Me ayuda a relajar los musculos después de hacer ejercicios</p>",
+            "author_avatar": "shopify://shop_images/Testimonio_1.webp",
+            "author": "<em><strong>Andres Parra</strong></em>"
           }
         },
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3": {
           "type": "column",
           "settings": {
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Duermo mejor",
+            "text": "<p>Los mejores que he probado en mi vida lo recomiendo al 100% esto me ayudo a dormir mejor, a ir al baño.</p>",
+            "author_avatar": "shopify://shop_images/Testimonio_4.webp",
+            "author": "<em><strong>Sara Domingez</strong></em>"
           }
         }
       },
