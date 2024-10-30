@@ -554,17 +554,6 @@
             "page": ""
           }
         },
-        "collapsible_row_qpBegR": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "¿Que garantias tienen los productos?",
-            "icon": "check_box",
-            "filled_icon": false,
-            "row_content": "<p>Hacemos devolución de dinero de pedidos 5 días de recibido tu compra y manejamos garantía de 30 días por defectos de fabrica por cualquier producto de nuestra tienda .</p>",
-            "page": ""
-          }
-        },
         "collapsible_row_nUWkmB": {
           "type": "collapsible_row",
           "settings": {
@@ -588,7 +577,6 @@
       },
       "block_order": [
         "collapsible_row_XLamCP",
-        "collapsible_row_qpBegR",
         "collapsible_row_nUWkmB",
         "collapsible_row_XQEU8c"
       ],
