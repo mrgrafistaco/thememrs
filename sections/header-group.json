@@ -134,7 +134,7 @@
         "desktop_text_size": 18,
         "italic_text": false,
         "uppercase_text": false,
-        "bold_text": false,
+        "bold_text": true,
         "mobile_image_height": 26,
         "desktop_image_height": 40,
         "mobile_padding_top": 12,
