@@ -1,0 +1,764 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "cfca4268-6358-426c-98ab-d292aeef11e5": {
+      "type": "slideshow",
+      "blocks": {
+        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner_Tienda_72f5451b-e3c2-4ec9-8a39-ed420ae86568.webp",
+            "mobile_image": "shopify:\/\/shop_images\/Banner_Tienda_72f5451b-e3c2-4ec9-8a39-ed420ae86568.webp",
+            "heading": "LOS MEJORES PRODUCTOS PARA TU BIENESTAR PERSONAL",
+            "heading_size": "h2",
+            "subheading": "💞 Más Calidad de Vida, Mayor Vitalidad, Mayor Energía ⚡",
+            "button_label": "Ver mas productos",
+            "link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-2": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1",
+        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-2"
+      ],
+      "settings": {
+        "visibility": "always-display",
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "desktop_pagination_position": "over",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "mobile_pagination_position": "under",
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "collection_list_hkxjHA": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_WezUHM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "productos-top"
+          }
+        },
+        "featured_collection_dArYR9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hogar-y-oficina"
+          }
+        },
+        "featured_collection_YKwL6F": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "productos-con-envio-gratis"
+          }
+        },
+        "featured_collection_NUDr9Q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ninos-y-juguetes"
+          }
+        },
+        "featured_collection_mFbDrD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "automoviles-y-motos"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_WezUHM",
+        "featured_collection_dArYR9",
+        "featured_collection_YKwL6F",
+        "featured_collection_NUDr9Q",
+        "featured_collection_mFbDrD"
+      ],
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Colecciones",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "d2d3417b-e92f-428c-b221-5bceffb552be": {
+      "type": "comparison-table",
+      "blocks": {
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-1": {
+          "type": "row",
+          "settings": {
+            "benefit": "Calidad",
+            "us": true,
+            "others": false
+          }
+        },
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-2": {
+          "type": "row",
+          "settings": {
+            "benefit": "Envíos Rapidos",
+            "us": true,
+            "others": false
+          }
+        },
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3": {
+          "type": "row",
+          "settings": {
+            "benefit": "Mejor precio",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_MhPNgd": {
+          "type": "row",
+          "settings": {
+            "benefit": "Gran selección",
+            "us": true,
+            "others": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-1",
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-2",
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3",
+        "row_MhPNgd"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Beneficios",
+        "heading_size": "h1",
+        "text": "<p>Productos 100% Garantizados, para mayor seguridad<\/p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "color_scheme": "background-1",
+        "layout": "table_second",
+        "style": "centered",
+        "logo_width": 90,
+        "mobile_logo_width": 95,
+        "us_label": "Onecomerce",
+        "us_label_size": 17,
+        "others_label": "Otros",
+        "others_label_size": 18,
+        "checkmark_style": "regular",
+        "checkmark_color": "#53af01",
+        "checkmark_bg_color": "#53af01",
+        "x_style": "regular",
+        "x_color": "#121212",
+        "x_bg_color": "#555555",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "background-2",
+        "highlighted_separator_opacity": 2,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 6,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0f1fc9e4-bc4c-4052-9747-62d1f8472caa": {
+      "type": "results",
+      "blocks": {
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1": {
+          "type": "row",
+          "settings": {
+            "percentage": 90,
+            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+          }
+        },
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2": {
+          "type": "row",
+          "settings": {
+            "percentage": 90,
+            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+          }
+        },
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3": {
+          "type": "row",
+          "settings": {
+            "percentage": 90,
+            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1",
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2",
+        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Resultados",
+        "heading_size": "h1",
+        "text": "<p>Talk about results of your customers and how your product improved their life.<\/p>",
+        "color_scheme": "background-1",
+        "layout": "results_second",
+        "results_headline": "Results heading",
+        "results_headline_size": "h2",
+        "results_headline_alignment": "left",
+        "caption": "<p>Caption about the results and\/or link for their proof.<\/p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_UtWKDf": {
+      "type": "featured-collection",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Productos del la semana",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "productos-destacados",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 36
+      }
+    },
+    "horizontal_ticker_ALHXad": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_jNWRXn": {
+          "type": "text",
+          "settings": {
+            "title": "Shrine Theme"
+          }
+        },
+        "text_CCqhyU": {
+          "type": "text",
+          "settings": {
+            "title": "Shrine Theme"
+          }
+        },
+        "text_kiznbL": {
+          "type": "text",
+          "settings": {
+            "title": "Shrine Theme"
+          }
+        }
+      },
+      "block_order": [
+        "text_jNWRXn",
+        "text_CCqhyU",
+        "text_kiznbL"
+      ],
+      "disabled": true,
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16
+      }
+    },
+    "ee8d9ca6-4a41-401f-83a3-37e138a112b9": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "button_full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "parallax_hero_PA7YDz": {
+      "type": "parallax-hero",
+      "blocks": {
+        "content_mbRybA": {
+          "type": "content",
+          "settings": {
+            "vertical_scrollng_speed": 0,
+            "horizontal_scrollng_speed": 0,
+            "zoom_level": 100,
+            "rotation": 0,
+            "z_index": 0,
+            "heading_prefix": "",
+            "heading": "Parallax hero",
+            "heading_size": 80,
+            "mobile_heading_size": 36,
+            "heading_suffix": "",
+            "heading_prefix_size": "h4",
+            "text": "<p>Create a cool perspective scrolling effect using multiple image layers.<\/p>",
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false,
+            "color_scheme": "background-1",
+            "full_page_width": false,
+            "content_max_width": "unlimited",
+            "content_pixels_max_width": 500,
+            "content_percentage_max_width": 50,
+            "content_vertical_position": "center",
+            "content_horizontal_position": "center",
+            "content_text_alignment": "center",
+            "mobile_content_vertical_position": "center",
+            "mobile_content_text_alignment": "center"
+          }
+        },
+        "image_rcbH9t": {
+          "type": "image",
+          "settings": {
+            "hide_on_mobile": false,
+            "vertical_scrollng_speed": 110,
+            "horizontal_scrollng_speed": 0,
+            "zoom_level": 0,
+            "rotation": 0,
+            "z_index": 1
+          }
+        },
+        "image_mWETe8": {
+          "type": "image",
+          "settings": {
+            "hide_on_mobile": false,
+            "vertical_scrollng_speed": 0,
+            "horizontal_scrollng_speed": 0,
+            "zoom_level": 0,
+            "rotation": 0,
+            "z_index": 1
+          }
+        },
+        "image_3ezxQq": {
+          "type": "image",
+          "settings": {
+            "hide_on_mobile": false,
+            "vertical_scrollng_speed": 0,
+            "horizontal_scrollng_speed": 0,
+            "zoom_level": 0,
+            "rotation": 0,
+            "z_index": 1
+          }
+        }
+      },
+      "block_order": [
+        "content_mbRybA",
+        "image_rcbH9t",
+        "image_mWETe8",
+        "image_3ezxQq"
+      ],
+      "disabled": true,
+      "settings": {
+        "min_desktop_height_type": "pixels",
+        "desktop_pixels_height": 600,
+        "min_mobile_height_type": "pixels",
+        "mobile_pixels_height": 400,
+        "transparent_header": false,
+        "transparent_header_text_color": "text",
+        "transparent_header_highlighted_link_color": "background-1",
+        "transparent_header_logo": "main",
+        "hide_announcement_bars": false,
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "bundle_deals_gCTrhm": {
+      "type": "bundle-deals",
+      "blocks": {
+        "product_qPx6MW": {
+          "type": "product",
+          "settings": {
+            "product": "hinge-repair-kit",
+            "percentage_discount": "0",
+            "fixed_amount_discount": "0"
+          }
+        },
+        "product_EKbikF": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "percentage_discount": "0",
+            "fixed_amount_discount": "0"
+          }
+        },
+        "product_CPXTV7": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "percentage_discount": "0",
+            "fixed_amount_discount": "0"
+          }
+        }
+      },
+      "block_order": [
+        "product_qPx6MW",
+        "product_EKbikF",
+        "product_CPXTV7"
+      ],
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Bundle deals",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "layout": "horizontal-images-left",
+        "enable_price_changes": true,
+        "prices_under": true,
+        "skip_cart": false,
+        "total_price_label": "Total Price:",
+        "btn_label": "Add selected to cart",
+        "percentage_discount": "0",
+        "fixed_amount_discount": "0",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "insta_stories_dG7AyD": {
+      "type": "insta-stories",
+      "blocks": {
+        "user_phzcgM": {
+          "type": "user",
+          "settings": {
+            "username": "shrinetheme",
+            "verified": false,
+            "close_friends": false,
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_p7hRk7": {
+          "type": "user",
+          "settings": {
+            "username": "shrinetheme",
+            "verified": false,
+            "close_friends": false,
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_dmEnTj": {
+          "type": "user",
+          "settings": {
+            "username": "shrinetheme",
+            "verified": false,
+            "close_friends": false,
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        }
+      },
+      "block_order": [
+        "user_phzcgM",
+        "user_p7hRk7",
+        "user_dmEnTj"
+      ],
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Instagram stories",
+        "heading_size": "h1",
+        "text": "Display images and testimonials in a format familiar to your customers.",
+        "color_scheme": "background-1",
+        "autoplay_speed": 10,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "testimonials_8g9ktx": {
+      "type": "testimonials",
+      "blocks": {
+        "column_DPhifX": {
+          "type": "column",
+          "settings": {
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "author": "<em><strong>Author<\/strong><\/em>"
+          }
+        },
+        "column_etaCYw": {
+          "type": "column",
+          "settings": {
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "author": "<em><strong>Author<\/strong><\/em>"
+          }
+        },
+        "column_6bAN4e": {
+          "type": "column",
+          "settings": {
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "author": "<em><strong>Author<\/strong><\/em>"
+          }
+        }
+      },
+      "block_order": [
+        "column_DPhifX",
+        "column_etaCYw",
+        "column_6bAN4e"
+      ],
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Testimonials",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "style": "cards",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "show_stars": true,
+        "stars_color": "#ffd700",
+        "show_quotes": true,
+        "quotes_color_scheme": "accent-2",
+        "cards_color_scheme": "bg-overlay",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6aa09428-a417-429d-9159-a4e8afd49590": {
+      "type": "icon-bar",
+      "blocks": {
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Política de devolución de dinero y garantías",
+            "text": "<p>Política flexible de devolución y reembolso<\/p><p><\/p>"
+          }
+        },
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2": {
+          "type": "column",
+          "settings": {
+            "icon": "Verified User",
+            "filled_icon": false,
+            "title": "Garantía de devolución de dinero",
+            "text": "<p>Garantía de devolución de dinero 100% libre de riesgos<\/p><p><\/p>"
+          }
+        },
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3": {
+          "type": "column",
+          "settings": {
+            "icon": "Mail",
+            "filled_icon": false,
+            "title": "Contactanos",
+            "text": "<p><strong>Email: <\/strong>onecommerce92@gmail.com<br\/><strong>WhatsApp:<\/strong> +57 324 6351943<\/p>"
+          }
+        },
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4": {
+          "type": "column",
+          "settings": {
+            "icon": "Local Shipping",
+            "filled_icon": false,
+            "title": "Envios gratis",
+            "text": "<p>Todos nuestros productos incluyen envios gratis<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1",
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2",
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3",
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "heading_size": "h0",
+        "text": "",
+        "color_scheme": "background-1",
+        "icon_layout": "vertical",
+        "icon_size": "medium",
+        "icon_color": "accent-1",
+        "cards_color_scheme": "background-1",
+        "type": "slide",
+        "autoplay": true,
+        "autoplay_speed": 2,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_divider_NWJKJb": {
+      "type": "section-divider",
+      "settings": {
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "background_color": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "cfca4268-6358-426c-98ab-d292aeef11e5",
+    "collection_list_hkxjHA",
+    "d2d3417b-e92f-428c-b221-5bceffb552be",
+    "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
+    "featured_collection_UtWKDf",
+    "horizontal_ticker_ALHXad",
+    "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
+    "parallax_hero_PA7YDz",
+    "bundle_deals_gCTrhm",
+    "insta_stories_dG7AyD",
+    "testimonials_8g9ktx",
+    "6aa09428-a417-429d-9159-a4e8afd49590",
+    "section_divider_NWJKJb"
+  ]
+}
