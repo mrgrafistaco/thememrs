@@ -1,1 +1,979 @@
-{"order":["main","related-products","8beb6911-28c6-482c-976a-e5421ad3e8df","4fc05ee5-1c30-4863-b88f-81cb6fa7c41a","eba88da5-80ac-47fc-aa75-997cfe7b2e59","55bd100e-3bbd-426c-a5cf-eed7b2a3706f","icon_bar_LiJcnD","421b5ad9-18b2-4b2a-8205-8700f2cd0d94","collapsible_content_aieFik"],"sections":{"421b5ad9-18b2-4b2a-8205-8700f2cd0d94":{"settings":{"background_color":"background-1","flip_horizontal":false,"flip_vertical":false,"padding_bottom":0,"padding_top":0,"shape":"waves_3","shape_color":"accent-1"},"type":"section-divider"},"4fc05ee5-1c30-4863-b88f-81cb6fa7c41a":{"block_order":["template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1","template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2","template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3","template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1","template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1","template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1"],"blocks":{"template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1":{"settings":{"button_label":"Button label","button_link":""},"type":"button"},"template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1":{"settings":{"heading":"Content heading","heading_size":"h1"},"type":"heading"},"template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1":{"settings":{"filled_icon":false,"icon":"check_circle","text":"\u003cp\u003ePair text with an icon to focus on your chosen product, collection, or blog post\u003c/p\u003e","title":"Icon with text"},"type":"icon"},"template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2":{"settings":{"filled_icon":false,"icon":"check_circle","text":"\u003cp\u003ePair text with an icon to focus on your chosen product, collection, or blog post\u003c/p\u003e","title":"Icon with text"},"type":"icon"},"template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3":{"settings":{"filled_icon":false,"icon":"check_circle","text":"\u003cp\u003ePair text with an icon to focus on your chosen product, collection, or blog post\u003c/p\u003e","title":"Icon with text"},"type":"icon"},"template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1":{"settings":{"text":"\u003cp\u003ePair icons with content to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.\u003c/p\u003e","text_style":"body"},"type":"text"}},"disabled":true,"settings":{"color_scheme":"background-1","desktop_content_alignment":"left","display_id":false,"hide_content_on_mobile":false,"icon_color":"accent-1","icon_heading_size":"h3","icon_position":"next-to-title","icon_size":"m","icon_text_alignment":"left","icons_desktop_layout":"1-column","icons_mobile_layout":"1-column","layout":"image_first","mobile_layout":"text_first","padding_bottom":36,"padding_top":36,"visibility":"always-display"},"type":"icons-with-content"},"55bd100e-3bbd-426c-a5cf-eed7b2a3706f":{"block_order":["template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1","template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2","template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3"],"blocks":{"template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1":{"settings":{"author":"\u003cem\u003e\u003cstrong\u003eAuthor\u003c/strong\u003e\u003c/em\u003e","text":"\u003cp\u003eShare positive thoughts and feedback from your customer..\u003c/p\u003e","title":"Heading"},"type":"column"},"template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2":{"settings":{"author":"\u003cem\u003e\u003cstrong\u003eAuthor\u003c/strong\u003e\u003c/em\u003e","text":"\u003cp\u003eShare positive thoughts and feedback from your customer..\u003c/p\u003e","title":"Heading"},"type":"column"},"template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3":{"settings":{"author":"\u003cem\u003e\u003cstrong\u003eAuthor\u003c/strong\u003e\u003c/em\u003e","text":"\u003cp\u003eShare positive thoughts and feedback from your customer..\u003c/p\u003e","title":"Heading"},"type":"column"}},"disabled":true,"settings":{"arrows_color_scheme":"inverse","autoplay":false,"autoplay_speed":5,"cards_color_scheme":"bg-overlay","color_scheme":"background-1","column_alignment":"center","columns_desktop":3,"desktop_adaptive_height":false,"desktop_arrows_position":"sides","desktop_dots_position":"under","desktop_full_page":false,"desktop_padding_calc":true,"desktop_side_padding":0,"desktop_spacing":40,"display_id":false,"dots_color_scheme":"inverse","enable_mobile_preview":false,"heading_size":"h1","image_ratio":"square","image_width":"full","mobile_adaptive_height":false,"mobile_arrows_position":"under","mobile_dots_position":"under","padding_bottom":36,"padding_top":36,"per_move_desktop":1,"quotes_color_scheme":"accent-2","show_quotes":true,"show_stars":true,"slider_desktop":false,"slider_mobile":true,"stars_color":"#ffd700","style":"cards","text":"","title":"Testimonials","transparent_arrows":true,"type":"slide","visibility":"always-display"},"type":"testimonials"},"8beb6911-28c6-482c-976a-e5421ad3e8df":{"block_order":["template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-heading-1","template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-richtext-1","template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-1","template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-2","template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-image-1","template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-3","template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-4"],"blocks":{"template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-heading-1":{"settings":{"alignment":"center","column":"col_1","heading":"Custom columns","heading_size":"h1","margin_bottom":20,"margin_top":20,"mobile_alignment":"mobile-center","visibility":"always-display"},"type":"heading"},"template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-1":{"settings":{"column":"col_2","filled_icon":false,"icon":"check_circle","icon_color":"accent-1","icon_heading_size":"h3","icon_position":"next-to-title","icon_size":"m","icon_text_alignment":"left","margin_bottom":30,"margin_top":20,"text":"\u003cp\u003ePair text with an icon to focus on your chosen product, collection, or blog post\u003c/p\u003e","title":"Icon with text","visibility":"always-display"},"type":"icon_with_text"},"template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-2":{"settings":{"column":"col_2","filled_icon":false,"icon":"check_circle","icon_color":"accent-1","icon_heading_size":"h3","icon_position":"next-to-title","icon_size":"m","icon_text_alignment":"left","margin_bottom":20,"margin_top":20,"text":"\u003cp\u003ePair text with an icon to focus on your chosen product, collection, or blog post\u003c/p\u003e","title":"Icon with text","visibility":"always-display"},"type":"icon_with_text"},"template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-3":{"settings":{"column":"col_4","filled_icon":false,"icon":"check_circle","icon_color":"accent-1","icon_heading_size":"h3","icon_position":"next-to-title","icon_size":"m","icon_text_alignment":"left","margin_bottom":30,"margin_top":20,"text":"\u003cp\u003ePair text with an icon to focus on your chosen product, collection, or blog post\u003c/p\u003e","title":"Icon with text","visibility":"always-display"},"type":"icon_with_text"},"template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-4":{"settings":{"column":"col_4","filled_icon":false,"icon":"check_circle","icon_color":"accent-1","icon_heading_size":"h3","icon_position":"next-to-title","icon_size":"m","icon_text_alignment":"left","margin_bottom":20,"margin_top":20,"text":"\u003cp\u003ePair text with an icon to focus on your chosen product, collection, or blog post\u003c/p\u003e","title":"Icon with text","visibility":"always-display"},"type":"icon_with_text"},"template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-image-1":{"settings":{"alignment":"center","border_radius":0,"column":"col_3","margin_bottom":20,"margin_top":20,"mobile_alignment":"center","visibility":"always-display","width":100},"type":"image"},"template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-richtext-1":{"settings":{"alignment":"center","column":"col_1","margin_bottom":20,"margin_top":20,"mobile_alignment":"mobile-center","text":"\u003cp\u003eUse the flexible grid system to create any layout. Each block can be placed in any of the columns.\u003c/p\u003e","text_style":"body","visibility":"always-display"},"type":"richtext"}},"disabled":true,"settings":{"col_1_desktop_width":12,"col_1_mobile_width":4,"col_1_visibility":"always-display","col_2_desktop_width":4,"col_2_mobile_width":4,"col_2_visibility":"always-display","col_3_desktop_width":4,"col_3_mobile_width":4,"col_3_visibility":"always-display","col_4_desktop_width":4,"col_4_mobile_width":4,"col_4_visibility":"always-display","col_5_desktop_width":3,"col_5_mobile_width":4,"col_5_visibility":"always-display","col_6_desktop_width":3,"col_6_mobile_width":4,"col_6_visibility":"always-display","color_scheme":"background-1","column_gap_desktop":40,"column_gap_mobile":20,"columns_count":4,"desktop_vertical_alignment":"center","display_id":false,"mobile_vertical_alignment":"flex-start","padding_bottom":36,"padding_top":36,"row_gap_desktop":40,"row_gap_mobile":30,"visibility":"always-display"},"type":"custom-columns"},"collapsible_content_aieFik":{"block_order":["collapsible_row_XLamCP","collapsible_row_qpBegR","collapsible_row_nUWkmB","collapsible_row_XQEU8c"],"blocks":{"collapsible_row_XLamCP":{"settings":{"filled_icon":false,"heading":"¿En cuanto llega mi pedido?","icon":"check_box","page":"","row_content":"\u003cp\u003eManejamos envíos gratis y pago contra entrega a todo el país. El tiempo de entrega es de 3 a 4 Días Hábiles.\u003c/p\u003e\u003cp\u003eRecuerda tener el dinero completo en EFECTIVO en el momento de la entrega, para que no tengas novedades con la recepción de tu pedido.\u003c/p\u003e"},"type":"collapsible_row"},"collapsible_row_XQEU8c":{"settings":{"filled_icon":false,"heading":"¿Que pasa si no me funciona el producto?","icon":"check_box","page":"","row_content":"\u003cp\u003eOfrecemos una garantía de devolución del producto de 5 días, si no es lo que esperabas.\u003c/p\u003e"},"type":"collapsible_row"},"collapsible_row_nUWkmB":{"settings":{"filled_icon":false,"heading":"¿Donde me puedo contactar?","icon":"check_box","page":"","row_content":"\u003ch2\u003eCentral de atención al cliente\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eEmail: \u003c/strong\u003eonecommerce92@gmail.com\u003cbr/\u003e\u003cstrong\u003eWhatsApp Colombia:\u003c/strong\u003e +57 324 6351943\u003c/p\u003e"},"type":"collapsible_row"},"collapsible_row_qpBegR":{"disabled":true,"settings":{"filled_icon":false,"heading":"¿Que garantias tienen los productos?","icon":"check_box","page":"","row_content":"\u003cp\u003eHacemos devolución de dinero de pedidos 5 días de recibido tu compra y manejamos garantía de 30 días por defectos de fabrica por cualquier producto de nuestra tienda .\u003c/p\u003e"},"type":"collapsible_row"}},"settings":{"caption":"¿Necesitas ayuda?","collapse_icon":"carret","color_scheme":"background-1","container_color_scheme":"background-2","desktop_layout":"image_second","display_id":false,"display_top_border":true,"heading":"Preguntas frecuentes","heading_alignment":"center","heading_size":"h1","image_ratio":"adapt","layout":"none","open_first_collapsible_row":false,"padding_bottom":36,"padding_top":36,"row_heading_size":"medium","visibility":"always-display"},"type":"collapsible-content"},"eba88da5-80ac-47fc-aa75-997cfe7b2e59":{"block_order":["template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1","template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2","template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3","template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4"],"blocks":{"template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1":{"settings":{"desc_alignment":"center","desc_color_scheme":"background-2","description":""},"type":"image_slide"},"template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2":{"settings":{"desc_alignment":"center","desc_color_scheme":"background-2","description":""},"type":"image_slide"},"template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3":{"settings":{"desc_alignment":"center","desc_color_scheme":"background-2","description":""},"type":"image_slide"},"template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4":{"settings":{"desc_alignment":"center","desc_color_scheme":"background-2","description":""},"type":"image_slide"}},"disabled":true,"settings":{"arrows_color_scheme":"inverse","autoplay":false,"autoplay_speed":5,"center_mode":false,"color_scheme":"background-1","desktop_adaptive_height":false,"desktop_arrows_position":"sides","desktop_border_radius":0,"desktop_dots_position":"under","desktop_full_page":false,"desktop_padding_calc":true,"desktop_side_padding":0,"desktop_spacing":28,"display_id":false,"dots_color_scheme":"inverse","drag":"enabled","heading_size":"h1","mobile_adaptive_height":false,"mobile_arrows_position":"sides","mobile_border_radius":0,"mobile_dots_position":"under","mobile_full_page":false,"mobile_padding_calc":true,"mobile_side_padding":0,"mobile_spacing":12,"padding_bottom":36,"padding_top":36,"per_move_desktop":1,"per_move_mobile":1,"slides_desktop":3,"slides_mobile":2,"title":"Image/Video Slider","transparent_arrows":false,"type":"slide","visibility":"always-display"},"type":"image-slider"},"icon_bar_LiJcnD":{"block_order":["column_cHwdij","column_HhAi8K","column_PdgT9R","column_JAmyBM"],"blocks":{"column_HhAi8K":{"settings":{"filled_icon":false,"icon":"check_circle","text":"\u003cp\u003eTodos nuestros productos cuentan con 30 dias de garantía  \u003c/p\u003e\u003cp\u003e\u003c/p\u003e","title":"Respaldo"},"type":"column"},"column_JAmyBM":{"settings":{"filled_icon":false,"icon":"Mail","text":"\u003cp\u003e\u003cstrong\u003eEmail: \u003c/strong\u003esoporte@joselevende.com\u003cbr/\u003e\u003cstrong\u003eWhatsApp Colombia:\u003c/strong\u003e +57 314 661 2528\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWhatsApp Ecuador:\u003c/strong\u003e+593 98 717 2857\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e","title":"Contactanos"},"type":"column"},"column_PdgT9R":{"settings":{"filled_icon":false,"icon":"Verified User","text":"\u003cp\u003eGarantía de devolución de dinero 100% libre de riesgos\u003c/p\u003e\u003cp\u003e\u003c/p\u003e","title":"Garantía de devolución de dinero"},"type":"column"},"column_cHwdij":{"settings":{"filled_icon":false,"icon":"Local Shipping","text":"\u003cp\u003eTodos nuestros productos incluyen envíos gratis\u003c/p\u003e","title":"Envíos gratis"},"type":"column"}},"disabled":true,"settings":{"arrows_color_scheme":"inverse","autoplay":false,"autoplay_speed":5,"cards_color_scheme":"background-1","color_scheme":"background-1","columns_desktop":4,"columns_mobile":"1","desktop_adaptive_height":false,"desktop_arrows_position":"sides","desktop_dots_position":"under","desktop_full_page":false,"desktop_padding_calc":true,"desktop_side_padding":0,"desktop_spacing":40,"display_id":false,"dots_color_scheme":"inverse","enable_mobile_preview":false,"heading_size":"h1","icon_color":"accent-1","icon_layout":"vertical","icon_size":"medium","mobile_adaptive_height":false,"mobile_arrows_position":"under","mobile_dots_position":"under","padding_bottom":36,"padding_top":36,"per_move_desktop":1,"slider_desktop":false,"slider_mobile":true,"text":"","title":"","transparent_arrows":true,"type":"slide","visibility":"always-display"},"type":"icon-bar"},"main":{"block_order":["urgency_Vihcwj","title","a6eb81db-40e4-43e0-972f-32db010a4a56","price","c43b9f54-e00a-4f9e-b42c-2914dde008a8","5fcc0428-e768-4cb7-bea3-eb0274198dd1","text_EmACyr","04ba004e-2f54-4936-8b1c-8bcadf6573f6","buy_buttons","e0a0b690-50df-4ca4-acfd-ce2980696cce","e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5","payment_badges_AWtztk","collapsible_tab_zWHWdU","collapsible_tab_AHKUqL","description","de158e68-5d0d-4819-a625-e2dabdff87d1"],"blocks":{"04ba004e-2f54-4936-8b1c-8bcadf6573f6":{"disabled":true,"settings":{"color_scheme":"accent-1","enable_quantity_discounts":true,"enable_variant_selectors":true,"enable_variant_selectors_on_quantity_of_1":false,"headline":"BUNDLE \u0026 SAVE","hide_pickers_overlay":true,"image_width":80,"margin_bottom":15,"margin_top":15,"option_1_badge":"","option_1_benefit":"","option_1_caption":"You save [amount_saved]","option_1_compare_price":"compare_price","option_1_compare_price_text":"[compare_price]","option_1_fixed_amount_off":"0","option_1_label":"Buy 1 get 1 free (2 pcs)","option_1_percentage_off":"0","option_1_price_text":"[price]","option_1_quantity":1,"option_2_badge":"","option_2_benefit":"","option_2_caption":"You save [amount_saved]","option_2_compare_price":"compare_price","option_2_compare_price_text":"[compare_price]","option_2_fixed_amount_off":"0","option_2_label":"Buy 2 get 2 free (4 pcs)","option_2_percentage_off":"32","option_2_price_text":"[price]","option_2_quantity":2,"option_3_badge":"","option_3_benefit":"","option_3_caption":"You save [amount_saved]","option_3_compare_price":"compare_price","option_3_compare_price_text":"[compare_price]","option_3_fixed_amount_off":"0","option_3_label":"Buy 3 get free 3 (6 pcs)","option_3_percentage_off":"43","option_3_price_text":"[price]","option_3_quantity":3,"option_4_badge":"","option_4_benefit":"","option_4_caption":"You save [amount_saved]","option_4_compare_price":"compare_price","option_4_compare_price_text":"[compare_price]","option_4_fixed_amount_off":"0","option_4_label":"Buy [quantity]","option_4_percentage_off":"0","option_4_price_text":"[price]","option_4_quantity":0,"preselected":"option_1","space_images":true,"style":"normal"},"type":"quantity_selector"},"5fcc0428-e768-4cb7-bea3-eb0274198dd1":{"disabled":true,"settings":{"breaks_badges":"[empty], Most popular, [empty]","breaks_benefits":"[empty], Free Shipping, Free Shipping","breaks_captions":"Variant 1 caption, Variant 2 caption, Variant 3 caption","breaks_color_scheme":"accent-1","breaks_compare_price_texts":"[compare_price], [compare_price], [compare_price]","breaks_custom_images":"","breaks_displayed_images":"variant_images","breaks_headline":"BUNDLE \u0026 SAVE","breaks_image_width":70,"breaks_labels":"[name], [name], [name]","breaks_price_texts":"[price], [price], [price]","breaks_space_images":true,"breaks_style":"normal","custom_labels":"","full_width_dropdowns":false,"margin_bottom":15,"margin_top":15,"picker_types":"pills, pills, pills","swatches_custom_colors":"disabled","swatches_custom_colors_list":"#000000, #FFFFFF","swatches_size":"medium"},"type":"variant_picker"},"a6eb81db-40e4-43e0-972f-32db010a4a56":{"disabled":true,"settings":{"alignment":"flex-start","bg_star_color":"#ececec","bg_stars_style":"full","label":"(1696 Reviews)","margin_bottom":9,"margin_top":0,"rating":4.6,"scroll_id":"","size":16,"star_color":"#ffcc00"},"type":"rating_stars"},"buy_buttons":{"settings":{"custom_color":"#53af01","display_price":false,"enable_custom_color":false,"margin_bottom":24,"margin_top":24,"show_dynamic_checkout":true,"skip_cart":false,"uppercase_text":true},"type":"buy_buttons"},"c43b9f54-e00a-4f9e-b42c-2914dde008a8":{"disabled":true,"settings":{"author_1":"\u003cem\u003eAuthor\u003c/em\u003e","author_2":"\u003cem\u003eAuthor\u003c/em\u003e","author_3":"\u003cem\u003eAuthor\u003c/em\u003e","avatar_alignment":"top","display_stars":true,"margin_bottom":24,"margin_top":24,"star_color":"#ffcc00","text_1":"\u003cp\u003eShare positive thoughts and feedback from your customer.\u003c/p\u003e","text_2":"\u003cp\u003eShare positive thoughts and feedback from your customer.\u003c/p\u003e","text_3":"\u003cp\u003eShare positive thoughts and feedback from your customer.\u003c/p\u003e"},"type":"reviews"},"collapsible_tab_AHKUqL":{"disabled":true,"settings":{"collapse_icon":"carret","content":"\u003cp\u003eHacemos devolución de dinero de pedidos 5 días de recibido tu compra y manejamos garantía de 30 días por defectos de fabrica por cualquier producto de nuestra tienda .\u003c/p\u003e","display_top_border":true,"filled_icon":false,"heading":"Devoluciones y reembolsos","heading_size":"small","icon":"keyboard_return","margin_bottom":0,"margin_top":0,"page":""},"type":"collapsible_tab"},"collapsible_tab_zWHWdU":{"disabled":true,"settings":{"collapse_icon":"carret","content":"\u003cp\u003eManejamos envíos gratis con servicio pago contra entrega a todo el país nuestro tiempo de entrega es de 2 a 4 Días Hábiles  recuerda tener el dinero completo en EFECTIVO en el momento de la entrega Para que no tengas novedades con la recepción de tu pedido.\u003c/p\u003e","display_top_border":true,"filled_icon":false,"heading":"Información de envio","heading_size":"small","icon":"local_shipping","margin_bottom":0,"margin_top":0,"page":""},"type":"collapsible_tab"},"de158e68-5d0d-4819-a625-e2dabdff87d1":{"disabled":true,"settings":{"collapse_icon":"carret","content":"","display_top_border":true,"filled_icon":false,"heading":"More info","heading_size":"medium","icon":"check_box","margin_bottom":0,"margin_top":24,"page":""},"type":"collapsible_tab"},"description":{"settings":{"margin_bottom":24,"margin_top":24},"type":"description"},"e0a0b690-50df-4ca4-acfd-ce2980696cce":{"disabled":true,"settings":{"bottom_text_1":"Ordered","bottom_text_2":"Order Ready","bottom_text_3":"Delivered","bottom_text_4":"","color_scheme":"inverse","date_format":"mm_dd","days_labels":"Mon, Tue, Wed, Thu, Fri, Sat, Sun","filled_icon_1":false,"filled_icon_2":false,"filled_icon_3":false,"filled_icon_4":false,"icon_1":"add_shopping_cart","icon_2":"local_shipping","icon_3":"redeem","icon_4":"","margin_bottom":24,"margin_top":24,"max_days_1":0,"max_days_2":2,"max_days_3":12,"min_days_1":0,"min_days_2":1,"min_days_3":10,"months_labels":"Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec","top_text_1":"\u003cstrong\u003e[start_date]\u003c/strong\u003e","top_text_2":"\u003cstrong\u003e[start_date] - [end_date]\u003c/strong\u003e","top_text_3":"\u003cstrong\u003e[start_date] - [end_date]\u003c/strong\u003e","top_text_4":""},"type":"shipping_checkpoints"},"e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5":{"disabled":true,"settings":{"button_label":"Add to cart","color_scheme":"background-1","desktop_full_button_width":false,"desktop_rating_stars":false,"desktop_show_image":true,"desktop_show_price":true,"desktop_show_price_in_button":false,"desktop_show_sale_badge":true,"desktop_show_title":true,"desktop_transparent_bg":false,"desktop_variant_picker":false,"display_when":"always","function":"add_to_cart","mobile_full_button_width":false,"mobile_rating_stars":false,"mobile_show_image":false,"mobile_show_price":true,"mobile_show_price_in_button":false,"mobile_show_sale_badge":false,"mobile_show_title":true,"mobile_transparent_bg":false,"mobile_variant_picker":false,"star_color":"#ffcc00","stars_label":"(xxxx Reviews)"},"type":"sticky_atc"},"payment_badges_AWtztk":{"disabled":true,"settings":{"enabled_payment_types":"american_express, apple_pay, diners_club, master, paypal, visa","margin_bottom":15,"margin_top":15},"type":"payment_badges"},"price":{"settings":{"compare_price_color":"text","hide_sale_badge":false,"layout":"price_first","margin_bottom":15,"margin_top":9,"price_color":"accent-1"},"type":"price"},"text_EmACyr":{"disabled":true,"settings":{"alignment":"left","bg_color":"#f3f3f3","border_color":"#b7b7b7","border_size":0,"column_gap":4,"corner_radius":60,"desktop_text_size":16,"direction":"vertical","enable_bg":false,"filled_icon_1":true,"filled_icon_2":true,"filled_icon_3":true,"icon_1":"local_shipping","icon_2":"currency_exchange","icon_3":"verified_user","icon_color":"#121212","icon_scale":195,"margin_bottom":18,"margin_top":18,"mobile_text_size":14,"padding":3,"text_1":"\u003cstrong\u003eEnvio Gratis \u003c/strong\u003e","text_2":"\u003cstrong\u003e100% Politica devolucion de dinero\u003c/strong\u003e","text_3":"\u003cstrong\u003eGarantia de 30 dias\u003c/strong\u003e","text_color":"#121212","width":"fit-content"},"type":"text"},"title":{"settings":{"margin_bottom":0,"margin_top":0,"text_size":"h2","title_alignment":"left","uppercase_title":false},"type":"title"},"urgency_Vihcwj":{"disabled":true,"settings":{"color_scheme":"accent-1","margin_bottom":15,"margin_top":0,"urgency":"HOT PRODUCT | LOW STOCK"},"type":"urgency"}},"custom_css":[],"settings":{"constrain_to_viewport":true,"desktop_padding_bottom":36,"desktop_padding_top":36,"desktop_thumbnails_count":5,"display_variant_image_first":false,"dots_color_scheme":"inverse","enable_sticky_info":true,"enable_video_looping":false,"gallery_layout":"thumbnail_slider","hide_arrows":true,"hide_variants":false,"image_zoom":"none","media_fit":"contain","media_position":"left","media_size":"medium","mobile_media_corner_radius":0,"mobile_padding_bottom":16,"mobile_padding_top":0,"mobile_pagination":"dots_overlay","mobile_preview_media":false,"mobile_spacing":false,"mobile_thumbnails":"hide","mobile_thumbnails_count":5,"trust_badge_position":"top-right","trust_badge_size":"medium"},"type":"main-product"},"related-products":{"disabled":true,"settings":{"color_scheme":"background-1","columns_desktop":4,"columns_mobile":"2","display_id":false,"heading":"You may also like","heading_size":"h2","image_ratio":"adapt","padding_bottom":24,"padding_top":36,"products_to_show":4,"show_rating":false,"show_secondary_image":false,"show_vendor":false},"type":"related-products"}}}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "order": [
+    "main",
+    "related-products",
+    "8beb6911-28c6-482c-976a-e5421ad3e8df",
+    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
+    "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
+    "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
+    "icon_bar_LiJcnD",
+    "421b5ad9-18b2-4b2a-8205-8700f2cd0d94",
+    "collapsible_content_aieFik"
+  ],
+  "sections": {
+    "421b5ad9-18b2-4b2a-8205-8700f2cd0d94": {
+      "settings": {
+        "background_color": "background-1",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "padding_bottom": 0,
+        "padding_top": 0,
+        "shape": "waves_3",
+        "shape_color": "accent-1"
+      },
+      "type": "section-divider"
+    },
+    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
+      "block_order": [
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1",
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2",
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3",
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1",
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1",
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1"
+      ],
+      "blocks": {
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1": {
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          },
+          "type": "button"
+        },
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1": {
+          "settings": {
+            "heading": "Content heading",
+            "heading_size": "h1"
+          },
+          "type": "heading"
+        },
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1": {
+          "settings": {
+            "filled_icon": false,
+            "icon": "check_circle",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "title": "Icon with text"
+          },
+          "type": "icon"
+        },
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2": {
+          "settings": {
+            "filled_icon": false,
+            "icon": "check_circle",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "title": "Icon with text"
+          },
+          "type": "icon"
+        },
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3": {
+          "settings": {
+            "filled_icon": false,
+            "icon": "check_circle",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "title": "Icon with text"
+          },
+          "type": "icon"
+        },
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1": {
+          "settings": {
+            "text": "<p>Pair icons with content to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          },
+          "type": "text"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "desktop_content_alignment": "left",
+        "display_id": false,
+        "hide_content_on_mobile": false,
+        "icon_color": "accent-1",
+        "icon_heading_size": "h3",
+        "icon_position": "next-to-title",
+        "icon_size": "m",
+        "icon_text_alignment": "left",
+        "icons_desktop_layout": "1-column",
+        "icons_mobile_layout": "1-column",
+        "layout": "image_first",
+        "mobile_layout": "text_first",
+        "padding_bottom": 36,
+        "padding_top": 36,
+        "visibility": "always-display"
+      },
+      "type": "icons-with-content"
+    },
+    "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
+      "block_order": [
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1",
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2",
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3"
+      ],
+      "blocks": {
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1": {
+          "settings": {
+            "author": "<em><strong>Author<\/strong><\/em>",
+            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "title": "Heading"
+          },
+          "type": "column"
+        },
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2": {
+          "settings": {
+            "author": "<em><strong>Author<\/strong><\/em>",
+            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "title": "Heading"
+          },
+          "type": "column"
+        },
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3": {
+          "settings": {
+            "author": "<em><strong>Author<\/strong><\/em>",
+            "text": "<p>Share positive thoughts and feedback from your customer..<\/p>",
+            "title": "Heading"
+          },
+          "type": "column"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "arrows_color_scheme": "inverse",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "cards_color_scheme": "bg-overlay",
+        "color_scheme": "background-1",
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "desktop_adaptive_height": false,
+        "desktop_arrows_position": "sides",
+        "desktop_dots_position": "under",
+        "desktop_full_page": false,
+        "desktop_padding_calc": true,
+        "desktop_side_padding": 0,
+        "desktop_spacing": 40,
+        "display_id": false,
+        "dots_color_scheme": "inverse",
+        "enable_mobile_preview": false,
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "image_width": "full",
+        "mobile_adaptive_height": false,
+        "mobile_arrows_position": "under",
+        "mobile_dots_position": "under",
+        "padding_bottom": 36,
+        "padding_top": 36,
+        "per_move_desktop": 1,
+        "quotes_color_scheme": "accent-2",
+        "show_quotes": true,
+        "show_stars": true,
+        "slider_desktop": false,
+        "slider_mobile": true,
+        "stars_color": "#ffd700",
+        "style": "cards",
+        "text": "",
+        "title": "Testimonials",
+        "transparent_arrows": true,
+        "type": "slide",
+        "visibility": "always-display"
+      },
+      "type": "testimonials"
+    },
+    "8beb6911-28c6-482c-976a-e5421ad3e8df": {
+      "block_order": [
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-heading-1",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-richtext-1",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-1",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-2",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-image-1",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-3",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-4"
+      ],
+      "blocks": {
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-heading-1": {
+          "settings": {
+            "alignment": "center",
+            "column": "col_1",
+            "heading": "Custom columns",
+            "heading_size": "h1",
+            "margin_bottom": 20,
+            "margin_top": 20,
+            "mobile_alignment": "mobile-center",
+            "visibility": "always-display"
+          },
+          "type": "heading"
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-1": {
+          "settings": {
+            "column": "col_2",
+            "filled_icon": false,
+            "icon": "check_circle",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_position": "next-to-title",
+            "icon_size": "m",
+            "icon_text_alignment": "left",
+            "margin_bottom": 30,
+            "margin_top": 20,
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "title": "Icon with text",
+            "visibility": "always-display"
+          },
+          "type": "icon_with_text"
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-2": {
+          "settings": {
+            "column": "col_2",
+            "filled_icon": false,
+            "icon": "check_circle",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_position": "next-to-title",
+            "icon_size": "m",
+            "icon_text_alignment": "left",
+            "margin_bottom": 20,
+            "margin_top": 20,
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "title": "Icon with text",
+            "visibility": "always-display"
+          },
+          "type": "icon_with_text"
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-3": {
+          "settings": {
+            "column": "col_4",
+            "filled_icon": false,
+            "icon": "check_circle",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_position": "next-to-title",
+            "icon_size": "m",
+            "icon_text_alignment": "left",
+            "margin_bottom": 30,
+            "margin_top": 20,
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "title": "Icon with text",
+            "visibility": "always-display"
+          },
+          "type": "icon_with_text"
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-4": {
+          "settings": {
+            "column": "col_4",
+            "filled_icon": false,
+            "icon": "check_circle",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_position": "next-to-title",
+            "icon_size": "m",
+            "icon_text_alignment": "left",
+            "margin_bottom": 20,
+            "margin_top": 20,
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<\/p>",
+            "title": "Icon with text",
+            "visibility": "always-display"
+          },
+          "type": "icon_with_text"
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-image-1": {
+          "settings": {
+            "alignment": "center",
+            "border_radius": 0,
+            "column": "col_3",
+            "margin_bottom": 20,
+            "margin_top": 20,
+            "mobile_alignment": "center",
+            "visibility": "always-display",
+            "width": 100
+          },
+          "type": "image"
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-richtext-1": {
+          "settings": {
+            "alignment": "center",
+            "column": "col_1",
+            "margin_bottom": 20,
+            "margin_top": 20,
+            "mobile_alignment": "mobile-center",
+            "text": "<p>Use the flexible grid system to create any layout. Each block can be placed in any of the columns.<\/p>",
+            "text_style": "body",
+            "visibility": "always-display"
+          },
+          "type": "richtext"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "col_1_desktop_width": 12,
+        "col_1_mobile_width": 4,
+        "col_1_visibility": "always-display",
+        "col_2_desktop_width": 4,
+        "col_2_mobile_width": 4,
+        "col_2_visibility": "always-display",
+        "col_3_desktop_width": 4,
+        "col_3_mobile_width": 4,
+        "col_3_visibility": "always-display",
+        "col_4_desktop_width": 4,
+        "col_4_mobile_width": 4,
+        "col_4_visibility": "always-display",
+        "col_5_desktop_width": 3,
+        "col_5_mobile_width": 4,
+        "col_5_visibility": "always-display",
+        "col_6_desktop_width": 3,
+        "col_6_mobile_width": 4,
+        "col_6_visibility": "always-display",
+        "color_scheme": "background-1",
+        "column_gap_desktop": 40,
+        "column_gap_mobile": 20,
+        "columns_count": 4,
+        "desktop_vertical_alignment": "center",
+        "display_id": false,
+        "mobile_vertical_alignment": "flex-start",
+        "padding_bottom": 36,
+        "padding_top": 36,
+        "row_gap_desktop": 40,
+        "row_gap_mobile": 30,
+        "visibility": "always-display"
+      },
+      "type": "custom-columns"
+    },
+    "collapsible_content_aieFik": {
+      "block_order": [
+        "collapsible_row_XLamCP",
+        "collapsible_row_qpBegR",
+        "collapsible_row_nUWkmB",
+        "collapsible_row_XQEU8c"
+      ],
+      "blocks": {
+        "collapsible_row_XLamCP": {
+          "settings": {
+            "filled_icon": false,
+            "heading": "¿En cuanto llega mi pedido?",
+            "icon": "check_box",
+            "page": "",
+            "row_content": "<p>Manejamos envíos gratis y pago contra entrega a todo el país. El tiempo de entrega es de 3 a 4 Días Hábiles.<\/p><p>Recuerda tener el dinero completo en EFECTIVO en el momento de la entrega, para que no tengas novedades con la recepción de tu pedido.<\/p>"
+          },
+          "type": "collapsible_row"
+        },
+        "collapsible_row_XQEU8c": {
+          "settings": {
+            "filled_icon": false,
+            "heading": "¿Que pasa si no me funciona el producto?",
+            "icon": "check_box",
+            "page": "",
+            "row_content": "<p>Ofrecemos una garantía de devolución del producto de 5 días, si no es lo que esperabas.<\/p>"
+          },
+          "type": "collapsible_row"
+        },
+        "collapsible_row_nUWkmB": {
+          "settings": {
+            "filled_icon": false,
+            "heading": "¿Donde me puedo contactar?",
+            "icon": "check_box",
+            "page": "",
+            "row_content": "<h2>Central de atención al cliente<\/h2><p><strong>Email: <\/strong>onecommerce92@gmail.com<br\/><strong>WhatsApp Colombia:<\/strong> +57 324 6351943<\/p>"
+          },
+          "type": "collapsible_row"
+        },
+        "collapsible_row_qpBegR": {
+          "disabled": true,
+          "settings": {
+            "filled_icon": false,
+            "heading": "¿Que garantias tienen los productos?",
+            "icon": "check_box",
+            "page": "",
+            "row_content": "<p>Hacemos devolución de dinero de pedidos 5 días de recibido tu compra y manejamos garantía de 30 días por defectos de fabrica por cualquier producto de nuestra tienda .<\/p>"
+          },
+          "type": "collapsible_row"
+        }
+      },
+      "settings": {
+        "caption": "¿Necesitas ayuda?",
+        "collapse_icon": "carret",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "desktop_layout": "image_second",
+        "display_id": false,
+        "display_top_border": true,
+        "heading": "Preguntas frecuentes",
+        "heading_alignment": "center",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "layout": "none",
+        "open_first_collapsible_row": false,
+        "padding_bottom": 36,
+        "padding_top": 36,
+        "row_heading_size": "medium",
+        "visibility": "always-display"
+      },
+      "type": "collapsible-content"
+    },
+    "eba88da5-80ac-47fc-aa75-997cfe7b2e59": {
+      "block_order": [
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1",
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2",
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3",
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4"
+      ],
+      "blocks": {
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1": {
+          "settings": {
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2",
+            "description": ""
+          },
+          "type": "image_slide"
+        },
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2": {
+          "settings": {
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2",
+            "description": ""
+          },
+          "type": "image_slide"
+        },
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3": {
+          "settings": {
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2",
+            "description": ""
+          },
+          "type": "image_slide"
+        },
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4": {
+          "settings": {
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2",
+            "description": ""
+          },
+          "type": "image_slide"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "arrows_color_scheme": "inverse",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "color_scheme": "background-1",
+        "desktop_adaptive_height": false,
+        "desktop_arrows_position": "sides",
+        "desktop_border_radius": 0,
+        "desktop_dots_position": "under",
+        "desktop_full_page": false,
+        "desktop_padding_calc": true,
+        "desktop_side_padding": 0,
+        "desktop_spacing": 28,
+        "display_id": false,
+        "dots_color_scheme": "inverse",
+        "drag": "enabled",
+        "heading_size": "h1",
+        "mobile_adaptive_height": false,
+        "mobile_arrows_position": "sides",
+        "mobile_border_radius": 0,
+        "mobile_dots_position": "under",
+        "mobile_full_page": false,
+        "mobile_padding_calc": true,
+        "mobile_side_padding": 0,
+        "mobile_spacing": 12,
+        "padding_bottom": 36,
+        "padding_top": 36,
+        "per_move_desktop": 1,
+        "per_move_mobile": 1,
+        "slides_desktop": 3,
+        "slides_mobile": 2,
+        "title": "Image\/Video Slider",
+        "transparent_arrows": false,
+        "type": "slide",
+        "visibility": "always-display"
+      },
+      "type": "image-slider"
+    },
+    "icon_bar_LiJcnD": {
+      "block_order": [
+        "column_cHwdij",
+        "column_HhAi8K",
+        "column_PdgT9R",
+        "column_JAmyBM"
+      ],
+      "blocks": {
+        "column_HhAi8K": {
+          "settings": {
+            "filled_icon": false,
+            "icon": "check_circle",
+            "text": "<p>Todos nuestros productos cuentan con 30 dias de garantía  <\/p><p><\/p>",
+            "title": "Respaldo"
+          },
+          "type": "column"
+        },
+        "column_JAmyBM": {
+          "settings": {
+            "filled_icon": false,
+            "icon": "Mail",
+            "text": "<p><strong>Email: <\/strong>soporte@joselevende.com<br\/><strong>WhatsApp Colombia:<\/strong> +57 314 661 2528<\/p><p><strong>WhatsApp Ecuador:<\/strong>+593 98 717 2857<\/p><p><\/p><p><\/p>",
+            "title": "Contactanos"
+          },
+          "type": "column"
+        },
+        "column_PdgT9R": {
+          "settings": {
+            "filled_icon": false,
+            "icon": "Verified User",
+            "text": "<p>Garantía de devolución de dinero 100% libre de riesgos<\/p><p><\/p>",
+            "title": "Garantía de devolución de dinero"
+          },
+          "type": "column"
+        },
+        "column_cHwdij": {
+          "settings": {
+            "filled_icon": false,
+            "icon": "Local Shipping",
+            "text": "<p>Todos nuestros productos incluyen envíos gratis<\/p>",
+            "title": "Envíos gratis"
+          },
+          "type": "column"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "arrows_color_scheme": "inverse",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "cards_color_scheme": "background-1",
+        "color_scheme": "background-1",
+        "columns_desktop": 4,
+        "columns_mobile": "1",
+        "desktop_adaptive_height": false,
+        "desktop_arrows_position": "sides",
+        "desktop_dots_position": "under",
+        "desktop_full_page": false,
+        "desktop_padding_calc": true,
+        "desktop_side_padding": 0,
+        "desktop_spacing": 40,
+        "display_id": false,
+        "dots_color_scheme": "inverse",
+        "enable_mobile_preview": false,
+        "heading_size": "h1",
+        "icon_color": "accent-1",
+        "icon_layout": "vertical",
+        "icon_size": "medium",
+        "mobile_adaptive_height": false,
+        "mobile_arrows_position": "under",
+        "mobile_dots_position": "under",
+        "padding_bottom": 36,
+        "padding_top": 36,
+        "per_move_desktop": 1,
+        "slider_desktop": false,
+        "slider_mobile": true,
+        "text": "",
+        "title": "",
+        "transparent_arrows": true,
+        "type": "slide",
+        "visibility": "always-display"
+      },
+      "type": "icon-bar"
+    },
+    "main": {
+      "block_order": [
+        "urgency_Vihcwj",
+        "title",
+        "a6eb81db-40e4-43e0-972f-32db010a4a56",
+        "price",
+        "c43b9f54-e00a-4f9e-b42c-2914dde008a8",
+        "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
+        "text_EmACyr",
+        "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
+        "buy_buttons",
+        "e0a0b690-50df-4ca4-acfd-ce2980696cce",
+        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
+        "payment_badges_AWtztk",
+        "collapsible_tab_zWHWdU",
+        "collapsible_tab_AHKUqL",
+        "description",
+        "de158e68-5d0d-4819-a625-e2dabdff87d1"
+      ],
+      "blocks": {
+        "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
+          "disabled": true,
+          "settings": {
+            "color_scheme": "accent-1",
+            "enable_quantity_discounts": true,
+            "enable_variant_selectors": true,
+            "enable_variant_selectors_on_quantity_of_1": false,
+            "headline": "BUNDLE & SAVE",
+            "hide_pickers_overlay": true,
+            "image_width": 80,
+            "margin_bottom": 15,
+            "margin_top": 15,
+            "option_1_badge": "",
+            "option_1_benefit": "",
+            "option_1_caption": "You save [amount_saved]",
+            "option_1_compare_price": "compare_price",
+            "option_1_compare_price_text": "[compare_price]",
+            "option_1_fixed_amount_off": "0",
+            "option_1_label": "Buy 1 get 1 free (2 pcs)",
+            "option_1_percentage_off": "0",
+            "option_1_price_text": "[price]",
+            "option_1_quantity": 1,
+            "option_2_badge": "",
+            "option_2_benefit": "",
+            "option_2_caption": "You save [amount_saved]",
+            "option_2_compare_price": "compare_price",
+            "option_2_compare_price_text": "[compare_price]",
+            "option_2_fixed_amount_off": "0",
+            "option_2_label": "Buy 2 get 2 free (4 pcs)",
+            "option_2_percentage_off": "32",
+            "option_2_price_text": "[price]",
+            "option_2_quantity": 2,
+            "option_3_badge": "",
+            "option_3_benefit": "",
+            "option_3_caption": "You save [amount_saved]",
+            "option_3_compare_price": "compare_price",
+            "option_3_compare_price_text": "[compare_price]",
+            "option_3_fixed_amount_off": "0",
+            "option_3_label": "Buy 3 get free 3 (6 pcs)",
+            "option_3_percentage_off": "43",
+            "option_3_price_text": "[price]",
+            "option_3_quantity": 3,
+            "option_4_badge": "",
+            "option_4_benefit": "",
+            "option_4_caption": "You save [amount_saved]",
+            "option_4_compare_price": "compare_price",
+            "option_4_compare_price_text": "[compare_price]",
+            "option_4_fixed_amount_off": "0",
+            "option_4_label": "Buy [quantity]",
+            "option_4_percentage_off": "0",
+            "option_4_price_text": "[price]",
+            "option_4_quantity": 0,
+            "preselected": "option_1",
+            "space_images": true,
+            "style": "normal"
+          },
+          "type": "quantity_selector"
+        },
+        "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
+          "disabled": true,
+          "settings": {
+            "breaks_badges": "[empty], Most popular, [empty]",
+            "breaks_benefits": "[empty], Free Shipping, Free Shipping",
+            "breaks_captions": "Variant 1 caption, Variant 2 caption, Variant 3 caption",
+            "breaks_color_scheme": "accent-1",
+            "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
+            "breaks_custom_images": "",
+            "breaks_displayed_images": "variant_images",
+            "breaks_headline": "BUNDLE & SAVE",
+            "breaks_image_width": 70,
+            "breaks_labels": "[name], [name], [name]",
+            "breaks_price_texts": "[price], [price], [price]",
+            "breaks_space_images": true,
+            "breaks_style": "normal",
+            "custom_labels": "",
+            "full_width_dropdowns": false,
+            "margin_bottom": 15,
+            "margin_top": 15,
+            "picker_types": "pills, pills, pills",
+            "swatches_custom_colors": "disabled",
+            "swatches_custom_colors_list": "#000000, #FFFFFF",
+            "swatches_size": "medium"
+          },
+          "type": "variant_picker"
+        },
+        "a6eb81db-40e4-43e0-972f-32db010a4a56": {
+          "disabled": true,
+          "settings": {
+            "alignment": "flex-start",
+            "bg_star_color": "#ececec",
+            "bg_stars_style": "full",
+            "label": "(1696 Reviews)",
+            "margin_bottom": 9,
+            "margin_top": 0,
+            "rating": 4.6,
+            "scroll_id": "",
+            "size": 16,
+            "star_color": "#ffcc00"
+          },
+          "type": "rating_stars"
+        },
+        "buy_buttons": {
+          "settings": {
+            "custom_color": "#53af01",
+            "display_price": false,
+            "enable_custom_color": false,
+            "margin_bottom": 24,
+            "margin_top": 24,
+            "show_dynamic_checkout": true,
+            "skip_cart": false,
+            "uppercase_text": true
+          },
+          "type": "buy_buttons"
+        },
+        "c43b9f54-e00a-4f9e-b42c-2914dde008a8": {
+          "disabled": true,
+          "settings": {
+            "author_1": "<em>Author<\/em>",
+            "author_2": "<em>Author<\/em>",
+            "author_3": "<em>Author<\/em>",
+            "avatar_alignment": "top",
+            "display_stars": true,
+            "margin_bottom": 24,
+            "margin_top": 24,
+            "star_color": "#ffcc00",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.<\/p>",
+            "text_2": "<p>Share positive thoughts and feedback from your customer.<\/p>",
+            "text_3": "<p>Share positive thoughts and feedback from your customer.<\/p>"
+          },
+          "type": "reviews"
+        },
+        "collapsible_tab_AHKUqL": {
+          "disabled": true,
+          "settings": {
+            "collapse_icon": "carret",
+            "content": "<p>Hacemos devolución de dinero de pedidos 5 días de recibido tu compra y manejamos garantía de 30 días por defectos de fabrica por cualquier producto de nuestra tienda .<\/p>",
+            "display_top_border": true,
+            "filled_icon": false,
+            "heading": "Devoluciones y reembolsos",
+            "heading_size": "small",
+            "icon": "keyboard_return",
+            "margin_bottom": 0,
+            "margin_top": 0,
+            "page": ""
+          },
+          "type": "collapsible_tab"
+        },
+        "collapsible_tab_zWHWdU": {
+          "disabled": true,
+          "settings": {
+            "collapse_icon": "carret",
+            "content": "<p>Manejamos envíos gratis con servicio pago contra entrega a todo el país nuestro tiempo de entrega es de 2 a 4 Días Hábiles  recuerda tener el dinero completo en EFECTIVO en el momento de la entrega Para que no tengas novedades con la recepción de tu pedido.<\/p>",
+            "display_top_border": true,
+            "filled_icon": false,
+            "heading": "Información de envio",
+            "heading_size": "small",
+            "icon": "local_shipping",
+            "margin_bottom": 0,
+            "margin_top": 0,
+            "page": ""
+          },
+          "type": "collapsible_tab"
+        },
+        "de158e68-5d0d-4819-a625-e2dabdff87d1": {
+          "disabled": true,
+          "settings": {
+            "collapse_icon": "carret",
+            "content": "",
+            "display_top_border": true,
+            "filled_icon": false,
+            "heading": "More info",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "margin_bottom": 0,
+            "margin_top": 24,
+            "page": ""
+          },
+          "type": "collapsible_tab"
+        },
+        "description": {
+          "settings": {
+            "margin_bottom": 24,
+            "margin_top": 24
+          },
+          "type": "description"
+        },
+        "e0a0b690-50df-4ca4-acfd-ce2980696cce": {
+          "disabled": true,
+          "settings": {
+            "bottom_text_1": "Ordered",
+            "bottom_text_2": "Order Ready",
+            "bottom_text_3": "Delivered",
+            "bottom_text_4": "",
+            "color_scheme": "inverse",
+            "date_format": "mm_dd",
+            "days_labels": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+            "filled_icon_1": false,
+            "filled_icon_2": false,
+            "filled_icon_3": false,
+            "filled_icon_4": false,
+            "icon_1": "add_shopping_cart",
+            "icon_2": "local_shipping",
+            "icon_3": "redeem",
+            "icon_4": "",
+            "margin_bottom": 24,
+            "margin_top": 24,
+            "max_days_1": 0,
+            "max_days_2": 2,
+            "max_days_3": 12,
+            "min_days_1": 0,
+            "min_days_2": 1,
+            "min_days_3": 10,
+            "months_labels": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+            "top_text_1": "<strong>[start_date]<\/strong>",
+            "top_text_2": "<strong>[start_date] - [end_date]<\/strong>",
+            "top_text_3": "<strong>[start_date] - [end_date]<\/strong>",
+            "top_text_4": ""
+          },
+          "type": "shipping_checkpoints"
+        },
+        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5": {
+          "disabled": true,
+          "settings": {
+            "button_label": "Add to cart",
+            "color_scheme": "background-1",
+            "desktop_full_button_width": false,
+            "desktop_rating_stars": false,
+            "desktop_show_image": true,
+            "desktop_show_price": true,
+            "desktop_show_price_in_button": false,
+            "desktop_show_sale_badge": true,
+            "desktop_show_title": true,
+            "desktop_transparent_bg": false,
+            "desktop_variant_picker": false,
+            "display_when": "always",
+            "function": "add_to_cart",
+            "mobile_full_button_width": false,
+            "mobile_rating_stars": false,
+            "mobile_show_image": false,
+            "mobile_show_price": true,
+            "mobile_show_price_in_button": false,
+            "mobile_show_sale_badge": false,
+            "mobile_show_title": true,
+            "mobile_transparent_bg": false,
+            "mobile_variant_picker": false,
+            "star_color": "#ffcc00",
+            "stars_label": "(xxxx Reviews)"
+          },
+          "type": "sticky_atc"
+        },
+        "payment_badges_AWtztk": {
+          "disabled": true,
+          "settings": {
+            "enabled_payment_types": "american_express, apple_pay, diners_club, master, paypal, visa",
+            "margin_bottom": 15,
+            "margin_top": 15
+          },
+          "type": "payment_badges"
+        },
+        "price": {
+          "settings": {
+            "compare_price_color": "text",
+            "hide_sale_badge": false,
+            "layout": "price_first",
+            "margin_bottom": 15,
+            "margin_top": 9,
+            "price_color": "accent-1"
+          },
+          "type": "price"
+        },
+        "text_EmACyr": {
+          "disabled": true,
+          "settings": {
+            "alignment": "left",
+            "bg_color": "#f3f3f3",
+            "border_color": "#b7b7b7",
+            "border_size": 0,
+            "column_gap": 4,
+            "corner_radius": 60,
+            "desktop_text_size": 16,
+            "direction": "vertical",
+            "enable_bg": false,
+            "filled_icon_1": true,
+            "filled_icon_2": true,
+            "filled_icon_3": true,
+            "icon_1": "local_shipping",
+            "icon_2": "currency_exchange",
+            "icon_3": "verified_user",
+            "icon_color": "#121212",
+            "icon_scale": 195,
+            "margin_bottom": 18,
+            "margin_top": 18,
+            "mobile_text_size": 14,
+            "padding": 3,
+            "text_1": "<strong>Envio Gratis <\/strong>",
+            "text_2": "<strong>100% Politica devolucion de dinero<\/strong>",
+            "text_3": "<strong>Garantia de 30 dias<\/strong>",
+            "text_color": "#121212",
+            "width": "fit-content"
+          },
+          "type": "text"
+        },
+        "title": {
+          "settings": {
+            "margin_bottom": 0,
+            "margin_top": 0,
+            "text_size": "h2",
+            "title_alignment": "left",
+            "uppercase_title": false
+          },
+          "type": "title"
+        },
+        "urgency_Vihcwj": {
+          "disabled": true,
+          "settings": {
+            "color_scheme": "accent-1",
+            "margin_bottom": 15,
+            "margin_top": 0,
+            "urgency": "HOT PRODUCT | LOW STOCK"
+          },
+          "type": "urgency"
+        }
+      },
+      "custom_css": [
+
+      ],
+      "settings": {
+        "constrain_to_viewport": true,
+        "desktop_padding_bottom": 36,
+        "desktop_padding_top": 36,
+        "desktop_thumbnails_count": 5,
+        "display_variant_image_first": false,
+        "dots_color_scheme": "inverse",
+        "enable_sticky_info": true,
+        "enable_video_looping": false,
+        "gallery_layout": "thumbnail_slider",
+        "hide_arrows": true,
+        "hide_variants": false,
+        "image_zoom": "none",
+        "media_fit": "contain",
+        "media_position": "left",
+        "media_size": "medium",
+        "mobile_media_corner_radius": 0,
+        "mobile_padding_bottom": 16,
+        "mobile_padding_top": 0,
+        "mobile_pagination": "dots_overlay",
+        "mobile_preview_media": false,
+        "mobile_spacing": false,
+        "mobile_thumbnails": "hide",
+        "mobile_thumbnails_count": 5,
+        "trust_badge_position": "top-right",
+        "trust_badge_size": "medium"
+      },
+      "type": "main-product"
+    },
+    "related-products": {
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "display_id": false,
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "image_ratio": "adapt",
+        "padding_bottom": 24,
+        "padding_top": 36,
+        "products_to_show": 4,
+        "show_rating": false,
+        "show_secondary_image": false,
+        "show_vendor": false
+      },
+      "type": "related-products"
+    }
+  }
+}
