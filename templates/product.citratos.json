@@ -15,6 +15,7 @@
     "image_with_text_eWqHW7",
     "image_with_text_CyhCpk",
     "related-products",
+    "comparison_table_7cGHcf",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
     "421b5ad9-18b2-4b2a-8205-8700f2cd0d94",
     "collapsible_content_aieFik"
@@ -368,6 +369,86 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 24
+      }
+    },
+    "comparison_table_7cGHcf": {
+      "type": "comparison-table",
+      "blocks": {
+        "row_kdb7qr": {
+          "type": "row",
+          "settings": {
+            "benefit": "ENVÍO GRATIS",
+            "us": true,
+            "others": true
+          }
+        },
+        "row_Q7cbqR": {
+          "type": "row",
+          "settings": {
+            "benefit": "PAGO CONTRA ENTREGA",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_TUxCjr": {
+          "type": "row",
+          "settings": {
+            "benefit": "REGISTRO INVIMA",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_B7ygWr": {
+          "type": "row",
+          "settings": {
+            "benefit": "A BASE DE PRODUCTOS 100% NATURALES",
+            "us": true,
+            "others": false
+          }
+        }
+      },
+      "block_order": [
+        "row_kdb7qr",
+        "row_Q7cbqR",
+        "row_TUxCjr",
+        "row_B7ygWr"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "La Diferencia Que Marca la Diferencia",
+        "heading_size": "h1",
+        "text": "<p>Descubre por qué <strong>Citratos FitoVit</strong> va más allá de otros suplementos. </p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "color_scheme": "background-1",
+        "layout": "table_second",
+        "style": "classic",
+        "logo_width": 90,
+        "mobile_logo_width": 60,
+        "us_label": "[shop_name]",
+        "us_label_size": 18,
+        "others_label": "Others",
+        "others_label_size": 18,
+        "checkmark_style": "regular",
+        "checkmark_color": "#53AF01",
+        "checkmark_bg_color": "#53AF01",
+        "x_style": "regular",
+        "x_color": "#121212",
+        "x_bg_color": "#DBDBDB",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "accent-1",
+        "highlighted_separator_opacity": 0,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 10,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
