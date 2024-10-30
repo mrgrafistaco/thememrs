@@ -460,7 +460,7 @@
           "settings": {
             "title": "Excelente producto",
             "text": "<p>Pues lo estoy empezando a tomar y ya he notado los efectos a nivel mental y concentración, pero sé que tengo que esperar más tiempo para ver mejor los cambios. Entre tanto puedo decir que es fácil de tomar y sabe bien.</p>",
-            "author_avatar": "shopify://shop_images/Testimonio_3.webp",
+            "author_avatar": "shopify://shop_images/IMG_1470.webp",
             "author": "<em><strong>Marcela Cardona</strong></em>"
           }
         },
@@ -469,16 +469,16 @@
           "settings": {
             "title": "Me siento con más vitalidad",
             "text": "<p>15 días de uso y la verdad me siento mejor a nivel mental y físico, me siento con más energía y más concentración y agilidad mental.</p>",
-            "author_avatar": "shopify://shop_images/Testimonio_1.webp",
+            "author_avatar": "shopify://shop_images/IMG_1476.webp",
             "author": "<em><strong>Noelia Solano</strong></em>"
           }
         },
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3": {
           "type": "column",
           "settings": {
-            "title": "Esoy más concentrado",
+            "title": "Estoy más concentrado",
             "text": "<p>El producto es de buena calidad y fácil de tomar. Después de 10 días de uso, se ha notado una mejora en la energía, concentración y agilidad mental.</p>",
-            "author_avatar": "shopify://shop_images/Testimonio_4.webp",
+            "author_avatar": "shopify://shop_images/IMG_1469.webp",
             "author": "<em><strong>Carlos Martinez</strong></em>"
           }
         }
