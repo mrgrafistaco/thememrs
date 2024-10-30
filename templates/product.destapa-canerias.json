@@ -14,6 +14,8 @@
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
     "image_with_text_eWqHW7",
     "image_with_text_CyhCpk",
+    "image_with_text_hYrcrU",
+    "image_with_text_tNiJJR",
     "related-products",
     "comparison_table_7cGHcf",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
@@ -80,14 +82,14 @@
         "heading_ecHfVz": {
           "type": "heading",
           "settings": {
-            "heading": "Mejora de la función muscular y nerviosa",
+            "heading": "Potente agente de dragado de tuberías",
             "heading_size": "h1"
           }
         },
         "text_UGwaxP": {
           "type": "text",
           "settings": {
-            "text": "<p>Imagínate despertando cada mañana con una sensación de fuerza y estabilidad. Tus músculos están listos para cualquier desafío del día, y tus nervios funcionan como un sistema bien aceitado, sin tensiones ni calambres. Podrás disfrutar de tus actividades diarias con una movilidad fluida y sin molestias.</p>",
+            "text": "<p>El limpiador de drenaje espumoso es el mejor removedor de obstrucciones para cocina, inodoros, lavabos y desagües de baño. El limpiador de drenaje de espuma puede eliminar eficazmente las obstrucciones difíciles y evita futuros bloqueos, asegurando un flujo de agua suave en todo momento.</p>",
             "text_style": "body"
           }
         }
@@ -99,7 +101,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/gempages_528313020430943254-08f809aa-cd31-4720-b878-378379f636cc.gif",
+        "image": "shopify://shop_images/12.webp",
         "height": "adapt",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -122,7 +124,7 @@
           "settings": {
             "column": "col_1",
             "visibility": "always-display",
-            "heading": "Recupera tu energía y bienestar",
+            "heading": "Mantén tu cocina y duchas libres de obstrucción",
             "heading_size": "h1",
             "alignment": "center",
             "mobile_alignment": "mobile-center",
@@ -135,7 +137,7 @@
           "settings": {
             "column": "col_1",
             "visibility": "always-display",
-            "text": "<p><strong>Citratos FitoVit</strong> combina magnesio y potasio en una fórmula diseñada para mejorar tu rendimiento físico y mental, además de apoyar una adecuada función muscular y cardiovascular</p>",
+            "text": "<p>Potente agente limpiador de drenaje con aroma a limón</p>",
             "text_style": "body",
             "alignment": "center",
             "mobile_alignment": "mobile-center",
@@ -155,8 +157,8 @@
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "✨ Energía Constante",
-            "text": "<p>Mantente lleno de energía 💪 durante todo el día, sin bajones de cansancio. <strong>Citratos FitoVit</strong> equilibra tus niveles de magnesio y potasio, dándote un impulso duradero.</p>",
+            "title": "Limpiador de drenaje de tuberías",
+            "text": "<p>Fórmula suave, no daña fácilmente el esmalte del inodoro y no daña la tubería. Se puede utilizar con confianza.</p>",
             "margin_top": 20,
             "margin_bottom": 30
           }
@@ -173,8 +175,8 @@
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Recuperación Rápida y Sin Calambres⚡",
-            "text": "<p>Disfruta de una rápida recuperación sin calambres 💥 después de hacer ejercicio. <strong>Citratos FitoVit</strong> repone tus electrolitos para que te sientas listo para el siguiente desafío.</p>",
+            "title": "Desbloqueador de drenaje de cocina",
+            "text": "<p>Potente agente de dragado de tuberías, resuelve fácilmente, fregadero obstruido, drenaje de suelo obstruido e inodoro obstruido.</p>",
             "margin_top": 20,
             "margin_bottom": 20
           }
@@ -184,7 +186,7 @@
           "settings": {
             "column": "col_3",
             "visibility": "always-display",
-            "image": "shopify://shop_images/gempages_528313020430943254-22f8e9b6-3375-448d-b8a9-8b5b5e915e45.webp",
+            "image": "shopify://shop_images/8.webp",
             "width": 100,
             "alignment": "center",
             "mobile_alignment": "center",
@@ -205,8 +207,8 @@
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Colágeno para Articulaciones y Piel🌟",
-            "text": "<p>Fortalece tus articulaciones y mejora la elasticidad de tu piel 💧 con colágeno hidrolizado. <strong>Citratos FitoVit</strong> cuida tu cuerpo desde el interior.</p>",
+            "title": "Limpiador de drenaje de fregadero 💧",
+            "text": "<p>La herramienta de limpieza transparente de tuberías Homebbc desbloquea eficazmente las tuberías y desagües obstruidos.</p>",
             "margin_top": 20,
             "margin_bottom": 30
           }
@@ -223,8 +225,8 @@
             "icon_color": "accent-1",
             "icon_heading_size": "h3",
             "icon_text_alignment": "left",
-            "title": "Cúrcuma Anti-Inflamatoria🌿",
-            "text": "<p>Siente alivio en tus articulaciones y reduce la inflamación 🌱. La cúrcuma en <strong>Citratos FitoVit</strong> mejora la movilidad y disminuye el dolor.</p>",
+            "title": "Ampliamente utilizado",
+            "text": "<p>Potente agente de dragado de tuberías para tuberías de agua de cocina, inodoros, baños, desagües de piso, obstruidos por aceite, tuberías de remojo de aguas residuales y otras tuberías de drenaje.</p>",
             "margin_top": 20,
             "margin_bottom": 20
           }
@@ -278,14 +280,14 @@
         "heading_rKTx4i": {
           "type": "heading",
           "settings": {
-            "heading": "Mejor calidad del sueño",
+            "heading": "Evita los drenajes obstruidos",
             "heading_size": "h1"
           }
         },
         "text_GMKMYm": {
           "type": "text",
           "settings": {
-            "text": "<p>Piensa en ir a la cama y caer en un sueño profundo y reparador casi de inmediato. Despertar sintiéndote completamente descansado, con la mente clara y lista para enfrentar un nuevo día. Es como tener una noche perfecta de descanso, todas las noches, que te permite funcionar al 100% durante el día.</p>",
+            "text": "<p>Ayuda a eliminar los depósitos minerales de agua dura, las manchas y los olores de los desagües y tuberías. Y disuelve eficazmente la grasa, el cabello y otros desechos, restaurando un mejor flujo en fregaderos, duchas y desagües de piso.</p>",
             "text_style": "body"
           }
         }
@@ -297,7 +299,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/gempages_528313020430943254-9121ce8d-ccf1-442d-94a9-28e49f3dfe72.gif",
+        "image": "shopify://shop_images/3.webp",
         "height": "adapt",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -318,14 +320,14 @@
         "heading_CDd7Aw": {
           "type": "heading",
           "settings": {
-            "heading": "Aumento de los niveles de energía",
+            "heading": "Fórmula segura y suave",
             "heading_size": "h1"
           }
         },
         "text_VifdGE": {
           "type": "text",
           "settings": {
-            "text": "<p>Visualiza tener una reserva infinita de energía. Desde el momento en que te despiertas hasta que te acuestas, tu cuerpo está lleno de vigor. No más cansancio a mitad del día; te sientes revitalizado, como si cada célula estuviera cargada de una energía renovadora.</p>",
+            "text": "<p>Está hecho de fórmula suave limpiador de drenaje espumoso que no daña la tubería. Aborda las obstrucciones resistentes sin dañar las tuberías, asegurando un rendimiento duradero y tranquilidad.</p>",
             "text_style": "body"
           }
         }
@@ -337,7 +339,87 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/25.webp",
+        "image": "shopify://shop_images/11.webp",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_hYrcrU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_96cCMY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mantén Tu Hogar fresco",
+            "heading_size": "h1"
+          }
+        },
+        "text_mieUdE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elimina los olores de drenaje y los bloqueos con nuestro limpiador espumoso de drenaje de limón. Formulado con un refrescante aroma a limón, crea una acción espumosa que penetra profundamente en los drenajes, descomponiendo la materia grasa, evita la acumulación y mantiene los drenajes fluyendo libremente.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_96cCMY",
+        "text_mieUdE"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/10_7fd52783-e707-467e-9d72-86b27ec70b8a.webp",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_tNiJJR": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Qnmf8x": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ampliamente aplicable",
+            "heading_size": "h1"
+          }
+        },
+        "text_YzTJF8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Desde cocinas domésticas hasta baños, desde desagües de piso hasta tuberías de fregadero, nuestro limpiador de drenaje de fregadero espumoso es tu solución todo en uno. Afronta obstrucciones de aceite, tuberías de aguas residuales inundadas y más, asegurando que cada rincón de su sistema de plomería se mantenga limpio y fresco.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Qnmf8x",
+        "text_YzTJF8"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/13.webp",
         "height": "adapt",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -435,11 +517,11 @@
         "others_label": "Otros",
         "others_label_size": 18,
         "checkmark_style": "regular",
-        "checkmark_color": "#53AF01",
-        "checkmark_bg_color": "#53AF01",
+        "checkmark_color": "#53af01",
+        "checkmark_bg_color": "#53af01",
         "x_style": "regular",
         "x_color": "#121212",
-        "x_bg_color": "#DBDBDB",
+        "x_bg_color": "#dbdbdb",
         "opposite_icon_colors": "original",
         "highlighted_color_scheme": "accent-1",
         "highlighted_separator_opacity": 0,
@@ -488,6 +570,7 @@
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2",
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
