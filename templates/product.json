@@ -31,11 +31,11 @@
           "settings": {
             "show_skala_price": true,
             "border_radius_percent": 10,
-            "border_percent_color": "#ff5252",
-            "save_bg_color": "#ff5252",
+            "border_percent_color": "#f5004f",
+            "save_bg_color": "#f5004f",
             "save_text_color": "#ffffff",
-            "price_color": "#28357d",
-            "comparation_price_color": "#8a8f9b"
+            "price_color": "#0000ff",
+            "comparation_price_color": "#0f0f0f"
           }
         },
         "like_section_nfWAUa": {
