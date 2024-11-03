@@ -13,11 +13,11 @@
     "disable_inspect": false,
     "country_list_function": "block",
     "country_list": "",
-    "logo": "shopify://shop_images/Logo_menu_Inicio_-_copia.png",
-    "secondary_logo": "shopify://shop_images/Copia_de_Sin_titulo_590_x_125_px_Instagram_Post_Square_128_x_128_px.png",
+    "logo": "shopify://shop_images/Logotipo_adaptable.webp",
+    "secondary_logo": "shopify://shop_images/Logotipo_adaptable.webp",
     "logo_width": 80,
     "mobile_logo_width": 80,
-    "favicon": "shopify://shop_images/Copia_de_Sin_titulo_500_x_500_px.png",
+    "favicon": "shopify://shop_images/Mesa_de_trabajo_36.webp",
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#121212",
     "gradient_accent_1": "#121212",
@@ -507,12 +507,6 @@
     "blocks": {
       "13669795325273674392": {
         "type": "shopify://apps/releasit-cod-form/blocks/app-embed/72faf214-4174-4fec-886b-0d0e8d3af9a2",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "1143683040400472741": {
-        "type": "shopify://apps/trustoo-io-reviews/blocks/trustoo-review-switch/c8f15077-6475-4e86-ad06-b66038d5ba2c",
         "disabled": false,
         "settings": {
         }
