@@ -43,6 +43,11 @@
             "comparation_price_color": "#8a8f9b"
           }
         },
+        "viewers_PtgK4T": {
+          "type": "viewers",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -54,6 +59,7 @@
       "block_order": [
         "title",
         "price",
+        "viewers_PtgK4T",
         "buy_buttons"
       ],
       "custom_css": [
