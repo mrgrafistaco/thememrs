@@ -48,6 +48,12 @@
             "border_radius": 10
           }
         },
+        "easysell_cod_form_app_block_ChpkyX": {
+          "type": "shopify://apps/easysell-cod-form/blocks/app-block/7bfd0a95-6839-4f02-b2ee-896832dbe67e",
+          "settings": {
+            "product": ""
+          }
+        },
         "description_98ByqM": {
           "type": "description",
           "settings": {
@@ -59,6 +65,7 @@
         "viewers_xPwHHD",
         "price",
         "like_section_nfWAUa",
+        "easysell_cod_form_app_block_ChpkyX",
         "description_98ByqM"
       ],
       "custom_css": [
