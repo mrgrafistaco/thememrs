@@ -15,7 +15,8 @@
     "custom_columns_6BLiCr",
     "multirow_qJi469",
     "comparison_table_VUaxEk",
-    "17307543926016898a"
+    "17307543926016898a",
+    "collapsible_content_8QAdEL"
   ],
   "sections": {
     "main": {
@@ -440,11 +441,11 @@
         "others_label": "Otras antenas",
         "others_label_size": 18,
         "checkmark_style": "regular",
-        "checkmark_color": "#53AF01",
-        "checkmark_bg_color": "#53AF01",
+        "checkmark_color": "#53af01",
+        "checkmark_bg_color": "#53af01",
         "x_style": "regular",
         "x_color": "#121212",
-        "x_bg_color": "#DBDBDB",
+        "x_bg_color": "#dbdbdb",
         "opposite_icon_colors": "original",
         "highlighted_color_scheme": "accent-1",
         "highlighted_separator_opacity": 0,
@@ -471,6 +472,65 @@
       ],
       "settings": {
         "include_margins": true
+      }
+    },
+    "collapsible_content_8QAdEL": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_UXDLkc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cuándo llegará mi pedido?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p><strong>Ofrecemos envíos gratis y pago contra entrega a todo el país. El tiempo de entrega es de 3 a 4 días hábiles.</strong></p><p>Recuerda tener el monto total en efectivo al momento de la entrega, para evitar inconvenientes con la recepción de tu pedido.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jKV8c3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Dónde puedo contactar?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p><strong>Central de atención al cliente</strong><br/>Email: <a>info@soysofi.com</a><br/>WhatsApp Colombia: +57 314 756 2991</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FKwp9J": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Qué pasa si el producto no funciona?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Ofrecemos una garantía de devolución de 5 días si el producto no es lo que esperabas.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_UXDLkc",
+        "collapsible_row_jKV8c3",
+        "collapsible_row_FKwp9J"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "¿Te ayudamos?",
+        "heading": "Preguntas frecuentes para ti",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   }
