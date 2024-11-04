@@ -21,6 +21,16 @@
           "settings": {
           }
         },
+        "trustreviews_star_rating_ApHLad": {
+          "type": "shopify://apps/trustreviews/blocks/star_rating/56d0fe1b-e701-4cff-8f84-466a26e09adb",
+          "settings": {
+            "product": "antena-tdt-de-30-decibeles",
+            "hide_on_no_reviews": false,
+            "enable_jsonld": false,
+            "starsize": 16,
+            "addtional_text": ""
+          }
+        },
         "viewers_xPwHHD": {
           "type": "viewers",
           "settings": {
@@ -68,6 +78,7 @@
       },
       "block_order": [
         "title",
+        "trustreviews_star_rating_ApHLad",
         "viewers_xPwHHD",
         "price",
         "like_section_nfWAUa",
