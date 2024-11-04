@@ -516,6 +516,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "9432750614194193090": {
+        "type": "shopify://apps/trustify-reviews/blocks/app-embed-block/60d505af-e468-47cf-a184-a06ccd6703ac",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
