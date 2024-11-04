@@ -11,6 +11,10 @@
   "order": [
     "main",
     "related-products",
+    "image_with_text_ML78FW",
+    "custom_columns_6BLiCr",
+    "multirow_qJi469",
+    "comparison_table_VUaxEk",
     "17307543926016898a"
   ],
   "sections": {
@@ -59,11 +63,6 @@
           "settings": {
             "product": ""
           }
-        },
-        "description_98ByqM": {
-          "type": "description",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -72,8 +71,7 @@
         "viewers_xPwHHD",
         "price",
         "like_section_nfWAUa",
-        "easysell_cod_form_app_block_ChpkyX",
-        "description_98ByqM"
+        "easysell_cod_form_app_block_ChpkyX"
       ],
       "custom_css": [
 
@@ -112,6 +110,351 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 24
+      }
+    },
+    "image_with_text_ML78FW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TyGytc": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡Descubre la mejor forma de ver tus canales nacionales favoritos!",
+            "heading_size": "h2"
+          }
+        },
+        "text_AMjUzc": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>¿Cansado de perder dinero pagando por cable solo para ver tus canales nacionales favoritos?</strong></p><p>Tenemos la solución perfecta. Nuestra Antena de TV 4K ha sido diseñada para brindarte una alternativa inmediata, eliminando esas costosas facturas. Disfruta de tus canales nacionales sin interrupciones y con una calidad excepcional.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TyGytc",
+        "text_AMjUzc"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/GifB6.2_e3d4d378-bf37-45ce-be86-1cb96bdb173c_480x480_1.webp",
+        "height": "medium",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_columns_6BLiCr": {
+      "type": "custom-columns",
+      "blocks": {
+        "heading_L4f6rc": {
+          "type": "heading",
+          "settings": {
+            "column": "col_1",
+            "visibility": "always-display",
+            "heading": "Disfruta de todos los canales nacionales (Colombia) totalmente gratis y sin necesidad de Internet.",
+            "heading_size": "h1",
+            "alignment": "center",
+            "mobile_alignment": "mobile-center",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "richtext_frR6rL": {
+          "type": "richtext",
+          "settings": {
+            "column": "col_1",
+            "visibility": "always-display",
+            "text": "<p>Gracias a su función de máxima resolución en 4K, podrás ver tus programas, series, deportes y películas de manera completamente gratuita. Disfruta de una experiencia visual impresionante con contenido de la mejor calidad.</p>",
+            "text_style": "body",
+            "alignment": "center",
+            "mobile_alignment": "mobile-center",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "icon_with_text_7exNtJ": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_2",
+            "visibility": "always-display",
+            "icon": "check_circle",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "Sin tarifas fijas 💸",
+            "text": "<p>Elimina los costos mensuales de suscripciones de televisión y ahorra dinero a largo plazo.</p>",
+            "margin_top": 20,
+            "margin_bottom": 30
+          }
+        },
+        "icon_with_text_rT3adX": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_2",
+            "visibility": "always-display",
+            "icon": "check_circle",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "Diseño invisible 🌟",
+            "text": "<p>Diseño compatible con todo tipo de televisores, desde los más recientes e inteligentes hasta los modelos más antiguos, a partir del año 2014.</p>",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "image_ykT7mF": {
+          "type": "image",
+          "settings": {
+            "column": "col_3",
+            "visibility": "always-display",
+            "image": "shopify://shop_images/D.2_480x480_5188cdf7-b9d6-4141-9f6b-e57435316102.webp",
+            "width": 100,
+            "alignment": "center",
+            "mobile_alignment": "center",
+            "border_radius": 0,
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "icon_with_text_mRfkbm": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_4",
+            "visibility": "always-display",
+            "icon": "check_circle",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "Calidad 4K ✨",
+            "text": "<p>Sumérgete en una experiencia visual inigualable con una calidad de imagen sorprendente en 4K.</p>",
+            "margin_top": 20,
+            "margin_bottom": 30
+          }
+        },
+        "icon_with_text_fH46nB": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_4",
+            "visibility": "always-display",
+            "icon": "check_circle",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "Fácil instalación 🔧",
+            "text": "<p>Nuestra antena es fácil de instalar y no requiere equipos costosos ni configuraciones complicadas.</p>",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "heading_L4f6rc",
+        "richtext_frR6rL",
+        "icon_with_text_7exNtJ",
+        "icon_with_text_rT3adX",
+        "image_ykT7mF",
+        "icon_with_text_mRfkbm",
+        "icon_with_text_fH46nB"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "background-1",
+        "columns_count": 4,
+        "column_gap_desktop": 40,
+        "row_gap_desktop": 40,
+        "desktop_vertical_alignment": "center",
+        "column_gap_mobile": 20,
+        "row_gap_mobile": 30,
+        "mobile_vertical_alignment": "flex-start",
+        "col_1_desktop_width": 12,
+        "col_1_mobile_width": 4,
+        "col_1_visibility": "always-display",
+        "col_2_desktop_width": 4,
+        "col_2_mobile_width": 4,
+        "col_2_visibility": "always-display",
+        "col_3_desktop_width": 4,
+        "col_3_mobile_width": 4,
+        "col_3_visibility": "always-display",
+        "col_4_desktop_width": 4,
+        "col_4_mobile_width": 4,
+        "col_4_visibility": "always-display",
+        "col_5_desktop_width": 3,
+        "col_5_mobile_width": 4,
+        "col_5_visibility": "always-display",
+        "col_6_desktop_width": 3,
+        "col_6_mobile_width": 4,
+        "col_6_visibility": "always-display",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_qJi469": {
+      "type": "multirow",
+      "blocks": {
+        "row_Vh4iYt": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/D.3_480x480_0b63ceff-8007-4d5e-a217-564c29eea80d.webp",
+            "caption": "",
+            "heading": "Termina con los cortes y la imagen borrosa por mala señal 🚫📺",
+            "text": "<p>Evita a toda costa estar viendo tus series y canales favoritos mientras se cae la señal, se coloca la pantalla borrosa y sufres cortes constantes. Nuestra antena te permite conectarla al televisor y usarla sin internet y sin ningún costo adicional donde otros te hacen pagar una suscripción mensual.</p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": ""
+          }
+        },
+        "row_TgGXFL": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/GifB6.2_480x480_5829f41d-2fc6-4e15-aea0-6b0873638472.webp",
+            "caption": "",
+            "heading": "Instrucciones de Uso 📘",
+            "text": "<ol><li><strong>Coloca la antena</strong> en el lugar que prefieras para obtener la mejor señal.</li><li><strong>Conéctala</strong> mediante el cable a tu televisión.</li><li><strong>Dirígete a la configuración</strong> de tu televisor y realiza la sincronización de canales.</li><li><strong>Disfruta</strong> de ver los programas de los canales nacionales de manera gratuita.</li></ol><p>¡Listo! Ahora puedes disfrutar de tu contenido favorito sin costo alguno. 🎉</p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": ""
+          }
+        },
+        "row_e9ndLe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/17030248961703024896AntenaDigitalHDTVTerrestreInteriorMN30105.jpg",
+            "caption": "",
+            "heading": "¿Qué incluye el kit? 🎁",
+            "text": "<ul><li>Kit incluye:<br/></li><li>Compatible con HDTV.<br/></li><li>Cable coaxial largo.<br/></li><li>La antena se conecta por la entrada coaxial del televisor.<br/></li><li>Contenido: 1x Antena de TV 4K con todos los canales nacionales gratis - HorizonMax 360™</li></ul>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_Vh4iYt",
+        "row_TgGXFL",
+        "row_e9ndLe"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "comparison_table_VUaxEk": {
+      "type": "comparison-table",
+      "blocks": {
+        "row_kPBeL8": {
+          "type": "row",
+          "settings": {
+            "benefit": "Compatible con otras tv",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_PfAziP": {
+          "type": "row",
+          "settings": {
+            "benefit": "Cable coaxial largo",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_wpGRzV": {
+          "type": "row",
+          "settings": {
+            "benefit": "Canales gratis",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_AjF7BE": {
+          "type": "row",
+          "settings": {
+            "benefit": "Contenido 4K",
+            "us": true,
+            "others": false
+          }
+        }
+      },
+      "block_order": [
+        "row_kPBeL8",
+        "row_PfAziP",
+        "row_wpGRzV",
+        "row_AjF7BE"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Porque somos los mejores",
+        "heading_size": "h2",
+        "text": "<p>Descubre por qué la antena TDT de 30 decibeles se destaca entre otras antenas TDT.</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "color_scheme": "background-1",
+        "layout": "table_second",
+        "style": "classic",
+        "logo": "shopify://shop_images/Logotipo_adaptable.webp",
+        "logo_width": 90,
+        "mobile_logo_width": 60,
+        "us_label": "[shop_name]",
+        "us_label_size": 16,
+        "others_label": "Otras antenas",
+        "others_label_size": 18,
+        "checkmark_style": "regular",
+        "checkmark_color": "#53AF01",
+        "checkmark_bg_color": "#53AF01",
+        "x_style": "regular",
+        "x_color": "#121212",
+        "x_bg_color": "#DBDBDB",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "accent-1",
+        "highlighted_separator_opacity": 0,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 16,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "17307543926016898a": {
