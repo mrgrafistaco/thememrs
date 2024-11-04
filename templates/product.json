@@ -58,6 +58,12 @@
           "type": "description",
           "settings": {
           }
+        },
+        "trustreviews_reviews_widget_FbkTGA": {
+          "type": "shopify://apps/trustreviews/blocks/reviews_widget/56d0fe1b-e701-4cff-8f84-466a26e09adb",
+          "settings": {
+            "product": "{{product}}"
+          }
         }
       },
       "block_order": [
@@ -66,7 +72,8 @@
         "price",
         "like_section_nfWAUa",
         "easysell_cod_form_app_block_ChpkyX",
-        "description_98ByqM"
+        "description_98ByqM",
+        "trustreviews_reviews_widget_FbkTGA"
       ],
       "custom_css": [
 
