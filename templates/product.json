@@ -10,25 +10,21 @@
 {
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "17307543926016898a"
   ],
   "sections": {
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": {
-          "type": "title",
+        "trustify_reviews_app_stars_block_FYzGXL": {
+          "type": "shopify://apps/trustify-reviews/blocks/app-stars-block/60d505af-e468-47cf-a184-a06ccd6703ac",
           "settings": {
           }
         },
-        "trustreviews_star_rating_ApHLad": {
-          "type": "shopify://apps/trustreviews/blocks/star_rating/56d0fe1b-e701-4cff-8f84-466a26e09adb",
+        "title": {
+          "type": "title",
           "settings": {
-            "product": "antena-tdt-de-30-decibeles",
-            "hide_on_no_reviews": false,
-            "enable_jsonld": false,
-            "starsize": 16,
-            "addtional_text": ""
           }
         },
         "viewers_xPwHHD": {
@@ -68,23 +64,16 @@
           "type": "description",
           "settings": {
           }
-        },
-        "trustreviews_reviews_widget_FbkTGA": {
-          "type": "shopify://apps/trustreviews/blocks/reviews_widget/56d0fe1b-e701-4cff-8f84-466a26e09adb",
-          "settings": {
-            "product": "{{product}}"
-          }
         }
       },
       "block_order": [
+        "trustify_reviews_app_stars_block_FYzGXL",
         "title",
-        "trustreviews_star_rating_ApHLad",
         "viewers_xPwHHD",
         "price",
         "like_section_nfWAUa",
         "easysell_cod_form_app_block_ChpkyX",
-        "description_98ByqM",
-        "trustreviews_reviews_widget_FbkTGA"
+        "description_98ByqM"
       ],
       "custom_css": [
 
@@ -123,6 +112,22 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 24
+      }
+    },
+    "17307543926016898a": {
+      "type": "apps",
+      "blocks": {
+        "trustify_reviews_app_product_block_eNW8A6": {
+          "type": "shopify://apps/trustify-reviews/blocks/app-product-block/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "trustify_reviews_app_product_block_eNW8A6"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
   }
