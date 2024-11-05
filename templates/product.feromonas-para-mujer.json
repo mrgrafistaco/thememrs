@@ -9,6 +9,7 @@
  */
 {
   "order": [
+    "horizontal_ticker_QyhHAe",
     "main",
     "related-products",
     "image_with_text_ML78FW",
@@ -19,6 +20,52 @@
     "collapsible_content_8QAdEL"
   ],
   "sections": {
+    "horizontal_ticker_QyhHAe": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_RFRwrA": {
+          "type": "text",
+          "settings": {
+            "title": "ENVÍO GRATIS"
+          }
+        },
+        "text_Ufgndj": {
+          "type": "text",
+          "settings": {
+            "title": "PAGO CONTRA ENTREGA"
+          }
+        },
+        "text_bGQNbw": {
+          "type": "text",
+          "settings": {
+            "title": "COMPRA SEGURO"
+          }
+        }
+      },
+      "block_order": [
+        "text_RFRwrA",
+        "text_Ufgndj",
+        "text_bGQNbw"
+      ],
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
