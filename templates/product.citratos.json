@@ -41,13 +41,6 @@
             "comparation_price_color": "#8a8f9b"
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
         "viewers_hTbg8Y": {
           "type": "viewers",
           "settings": {
@@ -62,14 +55,21 @@
             "text_color": "#000",
             "border_radius": 10
           }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
         }
       },
       "block_order": [
         "title",
         "price",
-        "buy_buttons",
         "viewers_hTbg8Y",
-        "like_section_WkgCM3"
+        "like_section_WkgCM3",
+        "buy_buttons"
       ],
       "custom_css": [
 
