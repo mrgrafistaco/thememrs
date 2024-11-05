@@ -64,6 +64,11 @@
           "settings": {
             "product": ""
           }
+        },
+        "description_rz4KUK": {
+          "type": "description",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -72,7 +77,8 @@
         "viewers_xPwHHD",
         "price",
         "like_section_nfWAUa",
-        "easysell_cod_form_app_block_ChpkyX"
+        "easysell_cod_form_app_block_ChpkyX",
+        "description_rz4KUK"
       ],
       "custom_css": [
 
