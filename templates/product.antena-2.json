@@ -68,6 +68,12 @@
           "settings": {
             "product": "{{product}}"
           }
+        },
+        "releasit_cod_form_button_app_block_f7UxHC": {
+          "type": "shopify://apps/releasit-cod-form/blocks/button-app-block/72faf214-4174-4fec-886b-0d0e8d3af9a2",
+          "settings": {
+            "product": "{{product}}"
+          }
         }
       },
       "block_order": [
@@ -76,7 +82,8 @@
         "price",
         "like_section_nfWAUa",
         "description_rz4KUK",
-        "releasit_cod_form_form_app_block_aDbiPG"
+        "releasit_cod_form_form_app_block_aDbiPG",
+        "releasit_cod_form_button_app_block_f7UxHC"
       ],
       "custom_css": [
 
