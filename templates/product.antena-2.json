@@ -129,10 +129,10 @@
         "heading_TyGytc",
         "text_AMjUzc"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/1666984658-giphy_74_-min.webp",
         "height": "medium",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -217,7 +217,6 @@
           "settings": {
             "column": "col_3",
             "visibility": "always-display",
-            "image": "shopify://shop_images/set3perfumeferonomas.webp",
             "width": 100,
             "alignment": "center",
             "mobile_alignment": "center",
@@ -272,6 +271,7 @@
         "icon_with_text_mRfkbm",
         "icon_with_text_fH46nB"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -311,7 +311,6 @@
         "row_Vh4iYt": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/1666984863-giphy_75_-min.webp",
             "caption": "",
             "heading": "🌟 <strong>¡Haz Que Todos Se Fijen en Ti!</strong>",
             "text": "<p>Descubre el poder de un aroma que transforma tu presencia y atrae todas las miradas. ¿Estás lista para ser el centro de atención?</p>",
@@ -324,7 +323,6 @@
         "row_TgGXFL": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/1691010421-WhatsApp_Video_2023-07-19_at_11_11_47_AM_AdobeExpress-min.webp",
             "caption": "",
             "heading": "Instrucciones de Uso 📘",
             "text": "<ol><li><strong>Coloca la antena</strong> en el lugar que prefieras para obtener la mejor señal.</li><li><strong>Conéctala</strong> mediante el cable a tu televisión.</li><li><strong>Dirígete a la configuración</strong> de tu televisor y realiza la sincronización de canales.</li><li><strong>Disfruta</strong> de ver los programas de los canales nacionales de manera gratuita.</li></ol><p>¡Listo! Ahora puedes disfrutar de tu contenido favorito sin costo alguno. 🎉</p>",
@@ -337,7 +335,6 @@
         "row_e9ndLe": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/avamax-perfume.gif",
             "caption": "",
             "heading": "💧 <strong>Modo de Uso</strong>",
             "text": "<p><strong>Aplicación Precisa</strong>: Desliza el roll-on sobre los puntos de pulso de tu cuerpo, como las muñecas, el cuello y detrás de las orejas. Estos puntos emiten calor, intensificando el aroma.</p><p><strong>Ritmo y Repetición</strong>: Para una fragancia más duradera, aplica el perfume por la mañana antes de salir y vuelve a aplicar durante el día si es necesario. ¡Siente cómo el aroma te acompaña en cada momento!</p><p><strong>Evita el Contacto Directo</strong>: Evita frotar el perfume después de aplicarlo, ya que esto puede alterar la fragancia. Deja que el aroma se desarrolle naturalmente y ¡disfruta de su poder cautivador!</p>",
@@ -353,6 +350,7 @@
         "row_TgGXFL",
         "row_e9ndLe"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -427,7 +425,6 @@
         "color_scheme": "background-1",
         "layout": "table_second",
         "style": "classic",
-        "logo": "shopify://shop_images/Logotipo_adaptable.webp",
         "logo_width": 90,
         "mobile_logo_width": 60,
         "us_label": "[shop_name]",
