@@ -16,8 +16,8 @@
       "blocks": {
         "fc645871-d789-4cfa-8584-4f8a29b6ce92": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Mesa_de_trabajo_14_copia_2.webp",
             "image_width": 330,
             "alignment": "center",
             "url": "",
