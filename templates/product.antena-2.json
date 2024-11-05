@@ -12,6 +12,9 @@
     "main",
     "related-products",
     "image_with_text_ML78FW",
+    "image_with_text_Lrpekp",
+    "image_with_text_7GCeWQ",
+    "image_with_text_hmca6z",
     "custom_columns_6BLiCr",
     "multirow_qJi469",
     "comparison_table_VUaxEk",
@@ -134,7 +137,134 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "height": "medium",
+        "image": "shopify://shop_images/2.webp",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_Lrpekp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UfaaJH": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "PERFUME EN ROLL-ON - ¡Atrae a los hombres!",
+            "heading_size": "h2"
+          }
+        },
+        "text_7hG3m7": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>¿Te gusta ser atractiva para los demás? ¡Descubre lo magnética que puedes llegar a ser con un aroma increíble!<br/><br/><strong>Al usarlo, te volverás irresistible para todos, especialmente para tu pareja. Desarrolla tu confianza y potencia tus habilidades para conquistar a tu chico.</strong></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UfaaJH",
+        "text_7hG3m7"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/3_b35cd640-e1d4-40ac-bb2a-2e427c92033e.webp",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_7GCeWQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8iLWBE": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "PERFUME EN ROLL-ON - ¡Atrae a los hombres!",
+            "heading_size": "h2"
+          }
+        },
+        "text_Bjrjqa": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>¿Te gusta ser atractiva para los demás? ¡Descubre lo magnética que puedes llegar a ser con un aroma increíble!<br/><br/><strong>Al usarlo, te volverás irresistible para todos, especialmente para tu pareja. Desarrolla tu confianza y potencia tus habilidades para conquistar a tu chico.</strong></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8iLWBE",
+        "text_Bjrjqa"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/4.webp",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_hmca6z": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cmFnjz": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "PERFUME EN ROLL-ON - ¡Atrae a los hombres!",
+            "heading_size": "h2"
+          }
+        },
+        "text_rzV7fA": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>¿Te gusta ser atractiva para los demás? ¡Descubre lo magnética que puedes llegar a ser con un aroma increíble!<br/><br/><strong>Al usarlo, te volverás irresistible para todos, especialmente para tu pareja. Desarrolla tu confianza y potencia tus habilidades para conquistar a tu chico.</strong></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cmFnjz",
+        "text_rzV7fA"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/5.webp",
+        "height": "adapt",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "section_color_scheme": "background-1",
@@ -376,7 +506,7 @@
         "row_kPBeL8": {
           "type": "row",
           "settings": {
-            "benefit": "Aroma intenso y suave",
+            "benefit": "Facil de Instalar",
             "us": true,
             "others": false
           }
@@ -384,7 +514,7 @@
         "row_PfAziP": {
           "type": "row",
           "settings": {
-            "benefit": "Aumenta tu atracción natural",
+            "benefit": "Productos Garantizados",
             "us": true,
             "others": false
           }
@@ -392,13 +522,14 @@
         "row_wpGRzV": {
           "type": "row",
           "settings": {
-            "benefit": "Composición natural",
+            "benefit": "Envío Gratis",
             "us": true,
             "others": false
           }
         },
         "row_AjF7BE": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "benefit": "Aromas",
             "us": true,
