@@ -8,7 +8,7 @@
  * ------------------------------------------------------------
  */
 {
-  "layout": "theme.gempages.footer",
+  "layout": "theme.gempages.blank",
   "sections": {
     "gp_global_section_539065936053797674-1": {
       "type": "gp-global-section-539065936053797674",
