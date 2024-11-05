@@ -112,6 +112,7 @@
       "blocks": {
         "heading_TyGytc": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "PERFUME EN ROLL-ON - ¡Atrae a los hombres!",
             "heading_size": "h2"
@@ -119,6 +120,7 @@
         },
         "text_AMjUzc": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>¿Te gusta ser atractiva para los demás? ¡Descubre lo magnética que puedes llegar a ser con un aroma increíble!<br/><br/><strong>Al usarlo, te volverás irresistible para todos, especialmente para tu pareja. Desarrolla tu confianza y potencia tus habilidades para conquistar a tu chico.</strong></p>",
             "text_style": "body"
@@ -129,7 +131,6 @@
         "heading_TyGytc",
         "text_AMjUzc"
       ],
-      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
