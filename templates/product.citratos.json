@@ -47,12 +47,29 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
+        },
+        "viewers_hTbg8Y": {
+          "type": "viewers",
+          "settings": {
+          }
+        },
+        "like_section_WkgCM3": {
+          "type": "like-section",
+          "settings": {
+            "name_select": "Mixto",
+            "bg_color": "#f9e8e8",
+            "border_color": "#f2c4c4",
+            "text_color": "#000",
+            "border_radius": 10
+          }
         }
       },
       "block_order": [
         "title",
         "price",
-        "buy_buttons"
+        "buy_buttons",
+        "viewers_hTbg8Y",
+        "like_section_WkgCM3"
       ],
       "custom_css": [
 
@@ -435,11 +452,11 @@
         "others_label": "Otros",
         "others_label_size": 18,
         "checkmark_style": "regular",
-        "checkmark_color": "#53AF01",
-        "checkmark_bg_color": "#53AF01",
+        "checkmark_color": "#53af01",
+        "checkmark_bg_color": "#53af01",
         "x_style": "regular",
         "x_color": "#121212",
-        "x_bg_color": "#DBDBDB",
+        "x_bg_color": "#dbdbdb",
         "opposite_icon_colors": "original",
         "highlighted_color_scheme": "accent-1",
         "highlighted_separator_opacity": 0,
