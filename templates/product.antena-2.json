@@ -1,0 +1,521 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "order": [
+    "main",
+    "related-products",
+    "image_with_text_ML78FW",
+    "custom_columns_6BLiCr",
+    "multirow_qJi469",
+    "comparison_table_VUaxEk",
+    "17307543926016898a",
+    "collapsible_content_8QAdEL"
+  ],
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "viewers_xPwHHD": {
+          "type": "viewers",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_skala_price": true,
+            "border_radius_percent": 10,
+            "border_percent_color": "#f5004f",
+            "save_bg_color": "#f5004f",
+            "save_text_color": "#ffffff",
+            "price_color": "#0000ff",
+            "comparation_price_color": "#0f0f0f"
+          }
+        },
+        "like_section_nfWAUa": {
+          "type": "like-section",
+          "settings": {
+            "name_select": "Masculino",
+            "bg_color": "#f9e8e8",
+            "border_color": "#f2c4c4",
+            "text_color": "#000000",
+            "border_radius": 10
+          }
+        },
+        "description_rz4KUK": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "viewers_xPwHHD",
+        "price",
+        "like_section_nfWAUa",
+        "description_rz4KUK"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "",
+        "border_image_radius": 11,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "none",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 24
+      }
+    },
+    "image_with_text_ML78FW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TyGytc": {
+          "type": "heading",
+          "settings": {
+            "heading": "PERFUME EN ROLL-ON - ¡Atrae a los hombres!",
+            "heading_size": "h2"
+          }
+        },
+        "text_AMjUzc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>¿Te gusta ser atractiva para los demás? ¡Descubre lo magnética que puedes llegar a ser con un aroma increíble!<br/><br/><strong>Al usarlo, te volverás irresistible para todos, especialmente para tu pareja. Desarrolla tu confianza y potencia tus habilidades para conquistar a tu chico.</strong></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TyGytc",
+        "text_AMjUzc"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/1666984658-giphy_74_-min.webp",
+        "height": "medium",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_columns_6BLiCr": {
+      "type": "custom-columns",
+      "blocks": {
+        "heading_L4f6rc": {
+          "type": "heading",
+          "settings": {
+            "column": "col_1",
+            "visibility": "always-display",
+            "heading": "💫 Despierta Tu Lado Más Irresistible",
+            "heading_size": "h1",
+            "alignment": "center",
+            "mobile_alignment": "mobile-center",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "richtext_frR6rL": {
+          "type": "richtext",
+          "settings": {
+            "column": "col_1",
+            "visibility": "always-display",
+            "text": "<p>Con nuestro perfume en roll-on, cada día es una oportunidad para deslumbrar. ¡Déjate llevar por la confianza y el magnetismo que te brinda!</p>",
+            "text_style": "body",
+            "alignment": "center",
+            "mobile_alignment": "mobile-center",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "icon_with_text_7exNtJ": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_2",
+            "visibility": "always-display",
+            "icon": "none",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "✨ Aumenta Tu Atractivo Personal",
+            "text": "<p>Atrapa miradas con un aroma cautivador que realza tu magnetismo personal. ¡Sé la persona irresistible que todos desean conocer!</p>",
+            "margin_top": 20,
+            "margin_bottom": 30
+          }
+        },
+        "icon_with_text_rT3adX": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_2",
+            "visibility": "always-display",
+            "icon": "none",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "🌹 Conquista Sin Esfuerzo",
+            "text": "<p>Despierta el interés de quienes te rodean y deja una impresión duradera. ¡Haz que tu chico se sienta cautivado en cada encuentro!</p>",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "image_ykT7mF": {
+          "type": "image",
+          "settings": {
+            "column": "col_3",
+            "visibility": "always-display",
+            "image": "shopify://shop_images/set3perfumeferonomas.webp",
+            "width": 100,
+            "alignment": "center",
+            "mobile_alignment": "center",
+            "border_radius": 0,
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "icon_with_text_mRfkbm": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_4",
+            "visibility": "always-display",
+            "icon": "none",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "💖 Confianza Instantánea",
+            "text": "<p>Cada aplicación de nuestro perfume te empodera y eleva tu autoestima. Siente cómo tu confianza se dispara en cada ocasión.</p>",
+            "margin_top": 20,
+            "margin_bottom": 30
+          }
+        },
+        "icon_with_text_fH46nB": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_4",
+            "visibility": "always-display",
+            "icon": "none",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "🎉 Un Aroma Único y Duradero",
+            "text": "<p>Disfruta de un aroma que perdura y te acompaña durante todo el día. ¡Deslumbra con tu esencia en cada ocasión!</p>",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "heading_L4f6rc",
+        "richtext_frR6rL",
+        "icon_with_text_7exNtJ",
+        "icon_with_text_rT3adX",
+        "image_ykT7mF",
+        "icon_with_text_mRfkbm",
+        "icon_with_text_fH46nB"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "background-1",
+        "columns_count": 4,
+        "column_gap_desktop": 40,
+        "row_gap_desktop": 40,
+        "desktop_vertical_alignment": "center",
+        "column_gap_mobile": 20,
+        "row_gap_mobile": 30,
+        "mobile_vertical_alignment": "flex-start",
+        "col_1_desktop_width": 12,
+        "col_1_mobile_width": 4,
+        "col_1_visibility": "always-display",
+        "col_2_desktop_width": 4,
+        "col_2_mobile_width": 4,
+        "col_2_visibility": "always-display",
+        "col_3_desktop_width": 4,
+        "col_3_mobile_width": 4,
+        "col_3_visibility": "always-display",
+        "col_4_desktop_width": 4,
+        "col_4_mobile_width": 4,
+        "col_4_visibility": "always-display",
+        "col_5_desktop_width": 3,
+        "col_5_mobile_width": 4,
+        "col_5_visibility": "always-display",
+        "col_6_desktop_width": 3,
+        "col_6_mobile_width": 4,
+        "col_6_visibility": "always-display",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_qJi469": {
+      "type": "multirow",
+      "blocks": {
+        "row_Vh4iYt": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1666984863-giphy_75_-min.webp",
+            "caption": "",
+            "heading": "🌟 <strong>¡Haz Que Todos Se Fijen en Ti!</strong>",
+            "text": "<p>Descubre el poder de un aroma que transforma tu presencia y atrae todas las miradas. ¿Estás lista para ser el centro de atención?</p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": ""
+          }
+        },
+        "row_TgGXFL": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1691010421-WhatsApp_Video_2023-07-19_at_11_11_47_AM_AdobeExpress-min.webp",
+            "caption": "",
+            "heading": "Instrucciones de Uso 📘",
+            "text": "<ol><li><strong>Coloca la antena</strong> en el lugar que prefieras para obtener la mejor señal.</li><li><strong>Conéctala</strong> mediante el cable a tu televisión.</li><li><strong>Dirígete a la configuración</strong> de tu televisor y realiza la sincronización de canales.</li><li><strong>Disfruta</strong> de ver los programas de los canales nacionales de manera gratuita.</li></ol><p>¡Listo! Ahora puedes disfrutar de tu contenido favorito sin costo alguno. 🎉</p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": ""
+          }
+        },
+        "row_e9ndLe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/avamax-perfume.gif",
+            "caption": "",
+            "heading": "💧 <strong>Modo de Uso</strong>",
+            "text": "<p><strong>Aplicación Precisa</strong>: Desliza el roll-on sobre los puntos de pulso de tu cuerpo, como las muñecas, el cuello y detrás de las orejas. Estos puntos emiten calor, intensificando el aroma.</p><p><strong>Ritmo y Repetición</strong>: Para una fragancia más duradera, aplica el perfume por la mañana antes de salir y vuelve a aplicar durante el día si es necesario. ¡Siente cómo el aroma te acompaña en cada momento!</p><p><strong>Evita el Contacto Directo</strong>: Evita frotar el perfume después de aplicarlo, ya que esto puede alterar la fragancia. Deja que el aroma se desarrolle naturalmente y ¡disfruta de su poder cautivador!</p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_Vh4iYt",
+        "row_TgGXFL",
+        "row_e9ndLe"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "comparison_table_VUaxEk": {
+      "type": "comparison-table",
+      "blocks": {
+        "row_kPBeL8": {
+          "type": "row",
+          "settings": {
+            "benefit": "Aroma intenso y suave",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_PfAziP": {
+          "type": "row",
+          "settings": {
+            "benefit": "Aumenta tu atracción natural",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_wpGRzV": {
+          "type": "row",
+          "settings": {
+            "benefit": "Composición natural",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_AjF7BE": {
+          "type": "row",
+          "settings": {
+            "benefit": "Aromas",
+            "us": true,
+            "others": false
+          }
+        }
+      },
+      "block_order": [
+        "row_kPBeL8",
+        "row_PfAziP",
+        "row_wpGRzV",
+        "row_AjF7BE"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "¿POR QUÉ NOS DIFERENCIAMOS?",
+        "heading_size": "h2",
+        "text": "<p>ES UN PRODUCTO QUE DEJARÁ A LOS DEMÁS CON LA BOCA ABIERTA</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "color_scheme": "background-1",
+        "layout": "table_second",
+        "style": "classic",
+        "logo": "shopify://shop_images/Logotipo_adaptable.webp",
+        "logo_width": 90,
+        "mobile_logo_width": 60,
+        "us_label": "[shop_name]",
+        "us_label_size": 16,
+        "others_label": "Otros productos",
+        "others_label_size": 18,
+        "checkmark_style": "regular",
+        "checkmark_color": "#53af01",
+        "checkmark_bg_color": "#53af01",
+        "x_style": "regular",
+        "x_color": "#121212",
+        "x_bg_color": "#dbdbdb",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "accent-1",
+        "highlighted_separator_opacity": 0,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 16,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17307543926016898a": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "collapsible_content_8QAdEL": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_UXDLkc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cuándo llegará mi pedido?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p><strong>Ofrecemos envíos gratis y pago contra entrega a todo el país. El tiempo de entrega es de 3 a 4 días hábiles.</strong></p><p>Recuerda tener el monto total en efectivo al momento de la entrega, para evitar inconvenientes con la recepción de tu pedido.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jKV8c3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Dónde puedo contactar?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p><strong>Central de atención al cliente</strong><br/>Email: <a>info@soysofi.com</a><br/>WhatsApp Colombia: +57 314 756 2991</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FKwp9J": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Qué pasa si el producto no funciona?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Ofrecemos una garantía de devolución de 5 días si el producto no es lo que esperabas.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_UXDLkc",
+        "collapsible_row_jKV8c3",
+        "collapsible_row_FKwp9J"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "¿Te ayudamos?",
+        "heading": "Preguntas frecuentes para ti",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  }
+}
