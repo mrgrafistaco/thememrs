@@ -63,18 +63,10 @@
           "settings": {
           }
         },
-        "releasit_cod_form_button_app_block_7bg7yb": {
-          "type": "shopify://apps/releasit-cod-form/blocks/button-app-block/72faf214-4174-4fec-886b-0d0e8d3af9a2",
-          "disabled": true,
+        "releasit_cod_form_form_app_block_aDbiPG": {
+          "type": "shopify://apps/releasit-cod-form/blocks/form-app-block/72faf214-4174-4fec-886b-0d0e8d3af9a2",
           "settings": {
             "product": "{{product}}"
-          }
-        },
-        "buy_buttons_yGt8Vg": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false
           }
         }
       },
@@ -84,8 +76,7 @@
         "price",
         "like_section_nfWAUa",
         "description_rz4KUK",
-        "releasit_cod_form_button_app_block_7bg7yb",
-        "buy_buttons_yGt8Vg"
+        "releasit_cod_form_form_app_block_aDbiPG"
       ],
       "custom_css": [
 
