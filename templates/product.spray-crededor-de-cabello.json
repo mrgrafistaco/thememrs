@@ -483,10 +483,20 @@
         "collapsible_row_FKwp9J": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Descipción General",
+            "heading": "¿El uso del spray causa irritación o efectos secundarios?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p><strong>💪 Fortalece desde la raíz: </strong>Aumenta la densidad y volumen del cabello en semanas.</p><p><strong>🌿 Fórmula natural: </strong>Elaborado con aceite de ricino, biotina, vitamina E, Jengibre, Ginseng, Raíz de flor de vallon y Glicerol</p><p><strong>⚡ Resultados rápidos</strong>: Reduce la caída del cabello desde la primera semana de uso.</p>",
+            "row_content": "<p><strong>No</strong>, nuestro spray está formulado con ingredientes naturales cuidadosamente seleccionados que son suaves para el cuero cabelludo.<strong>Spray Ouhoe </strong>no causa irritación ni efectos secundarios adversos cuando se usa según las indicaciones. De hecho, muchos de nuestros usuarios reportan una sensación de frescura y bienestar después de cada aplicación.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Tt8YjA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cuánto tiempo tomará para ver resultados?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Los resultados pueden variar según cada individuo, pero muchos de nuestros clientes comienzan a notar mejoras en la densidad y el crecimiento del cabello después de <strong>1 a 3 meses </strong>de uso constante. Para obtener los mejores resultados, recomendamos aplicar el spray <strong>dos veces al día</strong>, mañana y noche, como parte de tu rutina de cuidado capilar.</p>",
             "page": ""
           }
         }
@@ -494,7 +504,8 @@
       "block_order": [
         "collapsible_row_UXDLkc",
         "collapsible_row_jKV8c3",
-        "collapsible_row_FKwp9J"
+        "collapsible_row_FKwp9J",
+        "collapsible_row_Tt8YjA"
       ],
       "settings": {
         "display_id": false,
