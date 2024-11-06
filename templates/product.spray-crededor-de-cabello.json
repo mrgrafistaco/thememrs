@@ -16,7 +16,7 @@
     "image_with_text_DYMJG3",
     "comparison_slider_BhWJ8P",
     "image_with_text_Pp9Uyz",
-    "multirow_qJi469",
+    "image_with_text_ctLxDg",
     "rich_text_DNw6UE",
     "comparison_table_VUaxEk",
     "slideshow_eX7diN",
@@ -306,68 +306,42 @@
         "padding_bottom": 36
       }
     },
-    "multirow_qJi469": {
-      "type": "multirow",
+    "image_with_text_ctLxDg": {
+      "type": "image-with-text",
       "blocks": {
-        "row_Vh4iYt": {
-          "type": "row",
-          "disabled": true,
+        "heading_4cntNm": {
+          "type": "heading",
           "settings": {
-            "caption": "",
-            "heading": "",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "atc_button_label": "",
-            "atc_product": ""
-          }
-        },
-        "row_TgGXFL": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/giphy_2_02d73507-fb11-416a-b667-82a9d9b0d88e.gif",
-            "caption": "",
             "heading": "Modo de Uso 📘",
-            "text": "<p><strong>Úsalo dos veces al día</strong></p><ol><li><strong>Primera aplicación</strong> en la mañana con el cabello seco o húmedo.</li><li><strong>Segunda aplicación</strong> en la noche antes de acostarse.</li><li>Máximo 3 aplicaciones al día.</li></ol>",
-            "button_label": "",
-            "button_link": "",
-            "atc_button_label": "",
-            "atc_product": ""
+            "heading_size": "h2"
           }
         },
-        "row_e9ndLe": {
-          "type": "row",
-          "disabled": true,
+        "text_BEhr6f": {
+          "type": "text",
           "settings": {
-            "caption": "",
-            "heading": "💧 <strong>Modo de Uso</strong>",
-            "text": "<p><strong>Aplicación Precisa</strong>: Desliza el roll-on sobre los puntos de pulso de tu cuerpo, como las muñecas, el cuello y detrás de las orejas. Estos puntos emiten calor, intensificando el aroma.</p><p><strong>Ritmo y Repetición</strong>: Para una fragancia más duradera, aplica el perfume por la mañana antes de salir y vuelve a aplicar durante el día si es necesario. ¡Siente cómo el aroma te acompaña en cada momento!</p><p><strong>Evita el Contacto Directo</strong>: Evita frotar el perfume después de aplicarlo, ya que esto puede alterar la fragancia. Deja que el aroma se desarrolle naturalmente y ¡disfruta de su poder cautivador!</p>",
-            "button_label": "",
-            "button_link": "",
-            "atc_button_label": "",
-            "atc_product": ""
+            "text": "<p><strong>Úsalo dos veces al día</strong></p><ol><li><strong>Primera aplicación</strong> en la mañana con el cabello seco o húmedo.</li><li><strong>Segunda aplicación</strong> en la noche antes de acostarse.</li><li>Máximo 3 aplicaciones al día.</li></ol>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "row_Vh4iYt",
-        "row_TgGXFL",
-        "row_e9ndLe"
+        "heading_4cntNm",
+        "text_BEhr6f"
       ],
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image_height": "medium",
+        "image": "shopify://shop_images/giphy_2_02d73507-fb11-416a-b667-82a9d9b0d88e.gif",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
         "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
+        "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "background-1",
-        "row_color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
       }
