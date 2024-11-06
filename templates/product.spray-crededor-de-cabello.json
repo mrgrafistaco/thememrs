@@ -20,6 +20,7 @@
     "rich_text_DNw6UE",
     "comparison_table_VUaxEk",
     "17307543926016898a",
+    "testimonials_PLqJPa",
     "collapsible_content_8QAdEL"
   ],
   "sections": {
@@ -455,6 +456,103 @@
       "type": "apps",
       "settings": {
         "include_margins": true
+      }
+    },
+    "testimonials_PLqJPa": {
+      "type": "testimonials",
+      "blocks": {
+        "column_XTmxJQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bpcbyrwT6P.webp",
+            "title": "",
+            "text": "<p>me siento contento con el pedido realizado en esta tienda muy aparte de los resultados eficientes el encargo llego rapido y pague al recibirlo. Ahora a probarlo</p>",
+            "author": "<em><strong>Ramiro Z.</strong></em>"
+          }
+        },
+        "column_PnpJ4A": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/536Ex8AtBM.webp",
+            "title": "",
+            "text": "<p>Me llego en el tiempo prometido y me gusto mucho el servicio al cliente de la tienda . espero sea bueno el tratamiento</p>",
+            "author": "<em><strong>Ramon M</strong></em>"
+          }
+        },
+        "column_C3FKMC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/YerCcfaFRm.webp",
+            "title": "",
+            "text": "<p>Aunque mi cabello no se me caia tanto si era muy debil, mi hermana me recomendo este producto por que ella lo usa alla en USA y me a encantado mi cabello ahora es mas fuerte y ademas me gusta mucho el olor</p>",
+            "author": "<em><strong>Dora M.</strong></em>"
+          }
+        },
+        "column_kLKVfc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/HACAkrsPhi.webp",
+            "title": "",
+            "text": "<p>Me funciono muy bien pero a sido un poco lento el proceso hay que ser paciente y juicioso con echarselo todos los dias</p>",
+            "author": "<em><strong>Richard</strong></em>"
+          }
+        },
+        "column_hDgKCh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FEW8wKZRc4.webp",
+            "title": "",
+            "text": "<p>Lo compre hace poco mas de un mes y me a cambiado la vida, solo quienes saben cuanto se sufre por la perdida de cabello me van a entender</p>",
+            "author": "<em><strong>Miriam V</strong></em>"
+          }
+        }
+      },
+      "block_order": [
+        "column_XTmxJQ",
+        "column_PnpJ4A",
+        "column_C3FKMC",
+        "column_kLKVfc",
+        "column_hDgKCh"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Testimonials",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "style": "cards",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "show_stars": true,
+        "stars_color": "#ffd700",
+        "show_quotes": true,
+        "quotes_color_scheme": "accent-2",
+        "cards_color_scheme": "bg-overlay",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collapsible_content_8QAdEL": {
