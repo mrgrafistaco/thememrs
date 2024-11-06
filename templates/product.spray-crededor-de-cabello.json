@@ -63,6 +63,13 @@
           "disabled": true,
           "settings": {
           }
+        },
+        "buy_buttons_YPf7PB": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
         }
       },
       "block_order": [
@@ -70,7 +77,8 @@
         "viewers_xPwHHD",
         "price",
         "like_section_nfWAUa",
-        "description_rz4KUK"
+        "description_rz4KUK",
+        "buy_buttons_YPf7PB"
       ],
       "custom_css": [
 
