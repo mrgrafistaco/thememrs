@@ -11,6 +11,53 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
+    "escala_announcement_bar_4HjTRx": {
+      "type": "escala-announcement-bar",
+      "blocks": {
+        "text_fqh6Rc": {
+          "type": "text",
+          "settings": {
+            "title": "PAGO CONTRAENTREGA"
+          }
+        },
+        "text_wEzzLX": {
+          "type": "text",
+          "settings": {
+            "title": "ENVÍO GRATIS"
+          }
+        },
+        "text_3DtqdY": {
+          "type": "text",
+          "settings": {
+            "title": "IDEAL PARA CABELLOS, BARBA Y CEJAS"
+          }
+        }
+      },
+      "block_order": [
+        "text_fqh6Rc",
+        "text_wEzzLX",
+        "text_3DtqdY"
+      ],
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "bg_color": "#121212",
+        "text_color": "#ffffff",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": true,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16
+      }
+    },
     "2c2ec774-3430-481f-b927-e9c035b9d24e": {
       "type": "horizontal-ticker",
       "blocks": {
@@ -94,53 +141,6 @@
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "escala_announcement_bar_4HjTRx": {
-      "type": "escala-announcement-bar",
-      "blocks": {
-        "text_fqh6Rc": {
-          "type": "text",
-          "settings": {
-            "title": "PAGO CONTRAENTREGA"
-          }
-        },
-        "text_wEzzLX": {
-          "type": "text",
-          "settings": {
-            "title": "ENVÍO GRATIS"
-          }
-        },
-        "text_3DtqdY": {
-          "type": "text",
-          "settings": {
-            "title": "PRODUCTOS 100% GARANTIZADOS"
-          }
-        }
-      },
-      "block_order": [
-        "text_fqh6Rc",
-        "text_wEzzLX",
-        "text_3DtqdY"
-      ],
-      "settings": {
-        "visibility": "always-display",
-        "speed": 3,
-        "mobile_spacing": 60,
-        "desktop_spacing": 100,
-        "bg_color": "#121212",
-        "text_color": "#ffffff",
-        "mobile_text_size": 16,
-        "desktop_text_size": 18,
-        "italic_text": false,
-        "uppercase_text": false,
-        "bold_text": true,
-        "mobile_image_height": 26,
-        "desktop_image_height": 40,
-        "mobile_padding_top": 12,
-        "mobile_padding_bottom": 12,
-        "desktop_padding_top": 16,
-        "desktop_padding_bottom": 16
       }
     }
   },
