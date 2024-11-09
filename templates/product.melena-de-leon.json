@@ -724,10 +724,40 @@
         "collapsible_row_XQEU8c": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "¿Que pasa si no me funciona el producto?",
+            "heading": "¿Este producto tiene registro INVIMA?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Ofrecemos una garantía de devolución del producto de 5 días, si no es lo que esperabas.</p>",
+            "row_content": "<p>Sí, por supuesto. Nuestro producto tiene registro sanitario<strong>INVIMA N° RSA-0030995-2024.</strong>Así que te invitamos a probarlo sin ningún riesgo.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kMBCUQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Si sufro de diabetes (azúcar), ¿puedo consumir este producto?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Sí, puedes tomarlo sin ninguna contraindicación, ya que es un producto natural, que no tiene endulcorantes<strong>, </strong>por lo tanto, puedes consumirlo con tranquilidad.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_A3KcFt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Es adecuado para personas con presión alta o baja?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>La Melena de León es suave y generalmente segura para personas con estas condiciones. De hecho, te ayudará a mejorar tu sistema cardiaco.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_UXXggM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cuánto tiempo debo tomarla para obtener todos los beneficios?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
             "page": ""
           }
         }
@@ -735,7 +765,10 @@
       "block_order": [
         "collapsible_row_XLamCP",
         "collapsible_row_nUWkmB",
-        "collapsible_row_XQEU8c"
+        "collapsible_row_XQEU8c",
+        "collapsible_row_kMBCUQ",
+        "collapsible_row_A3KcFt",
+        "collapsible_row_UXXggM"
       ],
       "settings": {
         "display_id": false,
